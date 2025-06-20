@@ -1,0 +1,371 @@
+{
+  "search_metadata": {
+    "id": "6852ff423ee4c2b333a326b7",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/eb8dc5e698e4a9d9/6852ff423ee4c2b333a326b7.json",
+    "created_at": "2025-06-18 18:02:42 UTC",
+    "processed_at": "2025-06-18 18:02:42 UTC",
+    "google_url": "https://www.google.ca/search?q=Botsford+Fisheries&oq=Botsford+Fisheries&uule=w+CAIQICIUTmV3IEJydW5zd2ljayxDYW5hZGE&hl=en&gl=ca&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/eb8dc5e698e4a9d9/6852ff423ee4c2b333a326b7.html",
+    "total_time_taken": 1.82
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Botsford Fisheries",
+    "location_requested": "New Brunswick, Canada",
+    "location_used": "New Brunswick,Canada",
+    "google_domain": "google.ca",
+    "hl": "en",
+    "gl": "ca",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Botsford Fisheries",
+    "total_results": 78300,
+    "time_taken_displayed": 0.33,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "knowledge_graph": {
+    "title": "Botsford Fisheries Ltd.",
+    "thumbnail": "https://serpapi.com/searches/6852ff423ee4c2b333a326b7/images/dfabec663903f5a99217530491e3dd36145749e14e651757017514229a04ef6e.jpeg",
+    "type": "Seafood wholesaler",
+    "entity_type": "local_nav",
+    "kgmid": "/g/1trxjw9t",
+    "knowledge_graph_search_link": "https://www.google.ca/search?kgmid=/g/1trxjw9t&hl=en-CA&q=Botsford+Fisheries+Ltd.",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.ca&hl=en-CA&kgmid=%2Fg%2F1trxjw9t&location=New+Brunswick%2C+Canada&q=Botsford+Fisheries+Ltd.",
+    "place_id": "ChIJ5y7fgbNiX0sRASIk0essIOI",
+    "website": "http://www.botsfordfisheries.ca/",
+    "directions": "https://maps.google.ca/maps?gl=ca&uule=w+CAIQICIUTmV3IEJydW5zd2ljayxDYW5hZGE&hl=en&um=1&ie=UTF-8&fb=1&sa=X&geocode=Kecu34GzYl9LMQEiJNHrLCDi&daddr=2112+Route+950,+Petit-Cap,+NB+E4N+2H7",
+    "reviews": "https://www.google.ca/search?sca_esv=dcff718841928c00&gl=ca&hl=en&si=AMgyJEuzsz2NflaaWzrzdpjxXXRaJ2hfdMsbe_mSWso6src8s4onBwv_5XRglLR4R_EERBCquqyyNDG5hhFKHx9MFlKF6bOm4zLLScDUSziDMpdjWKsdcl03fEvXMNkvlZ-68Fm90jVWyiVTIs2gaKET5nnnyjkiYw%3D%3D&q=Botsford+Fisheries+Ltd.+Reviews&sa=X&ved=2ahUKEwivxf37xvuNAxV2h_0HHdqpBVcQ0bkNegQIIRAE",
+    "local_map": {
+      "image": "https://serpapi.com/searches/6852ff423ee4c2b333a326b7/images/dfabec663903f5a99217530491e3dd3674202b5818f6abe21c2f35cdceff4d72.webp",
+      "link": "https://www.google.ca/maps/place/Botsford+Fisheries+Ltd./data=!4m2!3m1!1s0x0:0xe2202cebd1242201?sa=X&ved=2ahUKEwivxf37xvuNAxV2h_0HHdqpBVcQ_BJ6BAgUEAA&hl=en&gl=ca"
+    },
+    "rating": 4.2,
+    "review_count": 10,
+    "address": "2112 Route 950, Petit-Cap, NB E4N 2H7",
+    "address_links": [
+      {
+        "text": "Address",
+        "link": "https://www.google.ca/search?sca_esv=dcff718841928c00&gl=ca&hl=en&q=botsford+fisheries+ltd+address&ludocid=16294072843164197377&sa=X&ved=2ahUKEwivxf37xvuNAxV2h_0HHdqpBVcQ6BN6BAgeEAI"
+      }
+    ],
+    "phone": "(506) 577-4327",
+    "raw_hours": "Open ⋅ Closes 5 p.m.",
+    "hours": {
+      "wednesday": {
+        "opens": "8 a.m.",
+        "closes": "5 p.m."
+      },
+      "thursday": {
+        "opens": "8 a.m.",
+        "closes": "5 p.m."
+      },
+      "friday": {
+        "opens": "8 a.m.",
+        "closes": "5 p.m."
+      },
+      "saturday": {
+        "opens": "Closed"
+      },
+      "sunday": {
+        "opens": "Closed"
+      },
+      "monday": {
+        "opens": "8 a.m.",
+        "closes": "5 p.m."
+      },
+      "tuesday": {
+        "opens": "8 a.m.",
+        "closes": "5 p.m."
+      }
+    },
+    "unclaimed_listing": true,
+    "people_also_search_for": [
+      {
+        "name": "Sea Tide Ground Fish Plant",
+        "extensions": [
+          "Seafood"
+        ],
+        "place_id": "18421889051712757637",
+        "link": "https://www.google.ca/search?sca_esv=dcff718841928c00&gl=ca&hl=en&tbm=lcl&q=Botsford+Fisheries+Ltd.&rflfq=1&num=20&uule=w+CAIQICIUTmV3IEJydW5zd2ljayxDYW5hZGE&stick=H4sIAAAAAAAAAB2RO07EYAyEtQWImiCQUuUEyO9HS0FFwRUQBO1KSEEbTsQJOBenYH662B6P5_tzdTnfcJlwVZNzsqRnaKKrLsYcVBnNTtUyulmUXG0q7OxSqjJfm7eah6VmpMKmoWROis70MYQV5vOUVilZFVrEoZFR89QVLMUqksEkzNrzxK1N0lRSJNnirvPkqGKEssBB7DWUJUZiQ1ppFIlNrAuxKKlYK2Qc5fO1IwiBTgOQCJExEjnQhSoEyAqwGJiBpIYymlTTpWWeNEhLBjmepgHLDimuW5pyuCTBSwVIgmwBF5TpQQ1UcIZY-DiENoiM9P-UEd4W3oq_wAAYXQjDNa1FTMfQ8udw-D3cPq_b58e6vHzs27KvL-fX4_K-nb8v7h62rx1fb8vjaT-u59O6L09fb_d_AbJo2eIBAAA",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=ca&google_domain=google.ca&hl=en&location=New+Brunswick%2C+Canada&q=Botsford+Fisheries+Ltd.&uule=w+CAIQICIUTmV3IEJydW5zd2ljayxDYW5hZGE",
+        "image": "https://serpapi.com/searches/6852ff423ee4c2b333a326b7/images/dfabec663903f5a99217530491e3dd367037707b6fd1abd701c50100dbcf6e467347a8f07bbecd5b43792ec1f4a97688.jpeg"
+      },
+      {
+        "name": "Westmorland Fisheries Ltd",
+        "extensions": [
+          "Manufacturer"
+        ],
+        "place_id": "13524116087691508927",
+        "link": "https://www.google.ca/search?sca_esv=dcff718841928c00&gl=ca&hl=en&tbm=lcl&q=Botsford+Fisheries+Ltd.&rflfq=1&num=20&uule=w+CAIQICIUTmV3IEJydW5zd2ljayxDYW5hZGE&stick=H4sIAAAAAAAAAB2RO07EYAyEtQWImiCQUuUEyO9HS0FFwRUQBO1KSEEbTsQJOBenYH662B6P5_tzdTnfcJlwVZNzsqRnaKKrLsYcVBnNTtUyulmUXG0q7OxSqjJfm7eah6VmpMKmoWROis70MYQV5vOUVilZFVrEoZFR89QVLMUqksEkzNrzxK1N0lRSJNnirvPkqGKEssBB7DWUJUZiQ1ppFIlNrAuxKKlYK2Qc5fO1IwiBTgOQCJExEjnQhSoEyAqwGJiBpIYymlTTpWWeNEhLBjmepgHLDimuW5pyuCTBSwVIgmwBF5TpQQ1UcIZY-DiENoiM9P-UEd4W3oq_wAAYXQjDNa1FTMfQ8udw-D3cPq_b58e6vHzs27KvL-fX4_K-nb8v7h62rx1fb8vjaT-u59O6L09fb_d_AbJo2eIBAAA",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=ca&google_domain=google.ca&hl=en&location=New+Brunswick%2C+Canada&q=Botsford+Fisheries+Ltd.&uule=w+CAIQICIUTmV3IEJydW5zd2ljayxDYW5hZGE",
+        "image": "https://serpapi.com/searches/6852ff423ee4c2b333a326b7/images/dfabec663903f5a99217530491e3dd367037707b6fd1abd701c50100dbcf6e46d85a4b47b0d5d65e12372fc6be049988.jpeg"
+      },
+      {
+        "name": "Cape Bald Packers Ltd",
+        "extensions": [
+          "Food products supplier"
+        ],
+        "place_id": "17807189432151528332",
+        "link": "https://www.google.ca/search?sca_esv=dcff718841928c00&gl=ca&hl=en&tbm=lcl&q=Botsford+Fisheries+Ltd.&rflfq=1&num=20&uule=w+CAIQICIUTmV3IEJydW5zd2ljayxDYW5hZGE&stick=H4sIAAAAAAAAAB2RO07EYAyEtQWImiCQUuUEyO9HS0FFwRUQBO1KSEEbTsQJOBenYH662B6P5_tzdTnfcJlwVZNzsqRnaKKrLsYcVBnNTtUyulmUXG0q7OxSqjJfm7eah6VmpMKmoWROis70MYQV5vOUVilZFVrEoZFR89QVLMUqksEkzNrzxK1N0lRSJNnirvPkqGKEssBB7DWUJUZiQ1ppFIlNrAuxKKlYK2Qc5fO1IwiBTgOQCJExEjnQhSoEyAqwGJiBpIYymlTTpWWeNEhLBjmepgHLDimuW5pyuCTBSwVIgmwBF5TpQQ1UcIZY-DiENoiM9P-UEd4W3oq_wAAYXQjDNa1FTMfQ8udw-D3cPq_b58e6vHzs27KvL-fX4_K-nb8v7h62rx1fb8vjaT-u59O6L09fb_d_AbJo2eIBAAA",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=ca&google_domain=google.ca&hl=en&location=New+Brunswick%2C+Canada&q=Botsford+Fisheries+Ltd.&uule=w+CAIQICIUTmV3IEJydW5zd2ljayxDYW5hZGE",
+        "image": "https://serpapi.com/searches/6852ff423ee4c2b333a326b7/images/dfabec663903f5a99217530491e3dd367037707b6fd1abd701c50100dbcf6e46e4ef900c69bd7af2006d051a9f4df156.jpeg"
+      },
+      {
+        "name": "Beausejour Seafood",
+        "extensions": [
+          "Seafood wholesaler"
+        ],
+        "place_id": "459345647376735179",
+        "link": "https://www.google.ca/search?sca_esv=dcff718841928c00&gl=ca&hl=en&tbm=lcl&q=Botsford+Fisheries+Ltd.&rflfq=1&num=20&uule=w+CAIQICIUTmV3IEJydW5zd2ljayxDYW5hZGE&stick=H4sIAAAAAAAAAB2RO07EYAyEtQWImiCQUuUEyO9HS0FFwRUQBO1KSEEbTsQJOBenYH662B6P5_tzdTnfcJlwVZNzsqRnaKKrLsYcVBnNTtUyulmUXG0q7OxSqjJfm7eah6VmpMKmoWROis70MYQV5vOUVilZFVrEoZFR89QVLMUqksEkzNrzxK1N0lRSJNnirvPkqGKEssBB7DWUJUZiQ1ppFIlNrAuxKKlYK2Qc5fO1IwiBTgOQCJExEjnQhSoEyAqwGJiBpIYymlTTpWWeNEhLBjmepgHLDimuW5pyuCTBSwVIgmwBF5TpQQ1UcIZY-DiENoiM9P-UEd4W3oq_wAAYXQjDNa1FTMfQ8udw-D3cPq_b58e6vHzs27KvL-fX4_K-nb8v7h62rx1fb8vjaT-u59O6L09fb_d_AbJo2eIBAAA",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=ca&google_domain=google.ca&hl=en&location=New+Brunswick%2C+Canada&q=Botsford+Fisheries+Ltd.&uule=w+CAIQICIUTmV3IEJydW5zd2ljayxDYW5hZGE",
+        "image": "https://serpapi.com/searches/6852ff423ee4c2b333a326b7/images/dfabec663903f5a99217530491e3dd367037707b6fd1abd701c50100dbcf6e46c2efcc543fc3f04b9b65ecb099a4819c.jpeg"
+      },
+      {
+        "name": "LeBlanc Michel & Charles",
+        "extensions": [
+          "Fish processing"
+        ],
+        "place_id": "11170697755934241564",
+        "link": "https://www.google.ca/search?sca_esv=dcff718841928c00&gl=ca&hl=en&tbm=lcl&q=Botsford+Fisheries+Ltd.&rflfq=1&num=20&uule=w+CAIQICIUTmV3IEJydW5zd2ljayxDYW5hZGE&stick=H4sIAAAAAAAAAB2RO07EYAyEtQWImiCQUuUEyO9HS0FFwRUQBO1KSEEbTsQJOBenYH662B6P5_tzdTnfcJlwVZNzsqRnaKKrLsYcVBnNTtUyulmUXG0q7OxSqjJfm7eah6VmpMKmoWROis70MYQV5vOUVilZFVrEoZFR89QVLMUqksEkzNrzxK1N0lRSJNnirvPkqGKEssBB7DWUJUZiQ1ppFIlNrAuxKKlYK2Qc5fO1IwiBTgOQCJExEjnQhSoEyAqwGJiBpIYymlTTpWWeNEhLBjmepgHLDimuW5pyuCTBSwVIgmwBF5TpQQ1UcIZY-DiENoiM9P-UEd4W3oq_wAAYXQjDNa1FTMfQ8udw-D3cPq_b58e6vHzs27KvL-fX4_K-nb8v7h62rx1fb8vjaT-u59O6L09fb_d_AbJo2eIBAAA",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=ca&google_domain=google.ca&hl=en&location=New+Brunswick%2C+Canada&q=Botsford+Fisheries+Ltd.&uule=w+CAIQICIUTmV3IEJydW5zd2ljayxDYW5hZGE",
+        "image": "https://serpapi.com/searches/6852ff423ee4c2b333a326b7/images/dfabec663903f5a99217530491e3dd367037707b6fd1abd701c50100dbcf6e4644718bfc88adc7e1961bf56b3396928c.jpeg"
+      }
+    ],
+    "profiles": [
+      {
+        "name": "LinkedIn",
+        "link": "https://ca.linkedin.com/company/botsford-fisheries-ltd.",
+        "image": "https://serpapi.com/searches/6852ff423ee4c2b333a326b7/images/dfabec663903f5a99217530491e3dd3663b9b5997b0cdfc980ce9ce576f490c56739a0fab30fd346.png"
+      }
+    ]
+  },
+  "related_questions": [
+    {
+      "question": "Why did the Canadian cod fisheries collapse?",
+      "snippet": "Mismanagement. In 1949, Newfoundland joined Canada as a province and so its fishery fell under the management of the Department of Fisheries and Oceans (DFO). The department mismanaged the resource and allowed overfishing. In 1969, the number of fishing trawlers increased, and coastal fishermen complained.",
+      "title": "Collapse of the Atlantic northwest cod fishery - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Collapse_of_the_Atlantic_northwest_cod_fishery#:~:text=equipment%2C%20and%20infrastructure.-,Mismanagement,increased%2C%20and%20coastal%20fishermen%20complained.",
+      "displayed_link": "https://en.wikipedia.org › wiki › Collapse_of_the_Atlanti...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTabTtRWpjhf--awnqyaY2VR0AU4VzhxZ4TSwuAVu28A-Rx_0SX9mfqxTNIrw&s",
+      "source_logo": "https://serpapi.com/searches/6852ff423ee4c2b333a326b7/images/a7dae833de1bb8b2f9f98576264f6bd79e81ae42ab9336eeaf4513476e9dd0e5.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR2QyWjBVVlV5VjNrMVNWbFBaVzVKZFVGaE1sUkRUMjVMZG00d1EzRmplQzFqTFVKMmIxOVpSWGRZUXpSaFowbzRVRk40VTFKa2QxSmhkVE13YlVwcFN6TlVSMVJLWVZwUlQzZEVSRnB0U0ZwMVZVYzJNMkkzTFVSa2R4SVhVVjg1VTJGUExWaEVabUZQT1hVNFVESjBUMWQxUVZVYUlrRkdUVUZIUjI5NGJ6a3pSMWhVVlRSNmIwNUZSRWhFV0dWWGIwRlFOM0ZUY0ZFIiwiZmN2IjoiMyIsImVpIjoiUV85U2FPLVhEZmFPOXU4UDJ0T1d1QVUiLCJxYyI6IkNoSmliM1J6Wm05eVpDQm1hWE5vWlhKcFpYTVFBSDN5M3NzLSIsInF1ZXN0aW9uIjoiV2h5IGRpZCB0aGUgQ2FuYWRpYW4gY29kIGZpc2hlcmllcyBjb2xsYXBzZT8iLCJsayI6IkdpdDNhSGtnWkdsa0lIUm9aU0JqWVc1aFpHbGhiaUJqYjJRZ1ptbHphR1Z5YVdWeklHTnZiR3hoY0hObCIsImJzIjoiYy1OSzROSUp6NmhVU01sTVVTakpTRlZ3VHN4TFRNbE16Rk5Jems5UlNNc3N6a2d0eWt3dEJ2SnljaElMaWxQdEplYUVHT2xLYVpjamFVbkdyNFZMajBzNFBDTmZJYjg4cnhnaGJTX1JwR1VrSWlWVWppSERaY2NsRFhNUk5nY3NkRGVTa1pJcXg2bUNLNUxMTUR3anNVUWhzeGpzdklLaV9LU2MxRnlGOHN5U0RMQUFRa3RtSHNTX2lVRFhGQmdwU3NsbkZoZVhBc1hCU2xHVWdmMllLTUFJQUEiLCJpZCI6ImZjX1FfOVNhTy1YRGZhTzl1OFAydE9XdUFVXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR2QyWjBVVlV5VjNrMVNWbFBaVzVKZFVGaE1sUkRUMjVMZG00d1EzRmplQzFqTFVKMmIxOVpSWGRZUXpSaFowbzRVRk40VTFKa2QxSmhkVE13YlVwcFN6TlVSMVJLWVZwUlQzZEVSRnB0U0ZwMVZVYzJNMkkzTFVSa2R4SVhVVjg1VTJGUExWaEVabUZQT1hVNFVESjBUMWQxUVZVYUlrRkdUVUZIUjI5NGJ6a3pSMWhVVlRSNmIwNUZSRWhFV0dWWGIwRlFOM0ZUY0ZFIiwiZmN2IjoiMyIsImVpIjoiUV85U2FPLVhEZmFPOXU4UDJ0T1d1QVUiLCJxYyI6IkNoSmliM1J6Wm05eVpDQm1hWE5vWlhKcFpYTVFBSDN5M3NzLSIsInF1ZXN0aW9uIjoiV2h5IGRpZCB0aGUgQ2FuYWRpYW4gY29kIGZpc2hlcmllcyBjb2xsYXBzZT8iLCJsayI6IkdpdDNhSGtnWkdsa0lIUm9aU0JqWVc1aFpHbGhiaUJqYjJRZ1ptbHphR1Z5YVdWeklHTnZiR3hoY0hObCIsImJzIjoiYy1OSzROSUp6NmhVU01sTVVTakpTRlZ3VHN4TFRNbE16Rk5Jems5UlNNc3N6a2d0eWt3dEJ2SnljaElMaWxQdEplYUVHT2xLYVpjamFVbkdyNFZMajBzNFBDTmZJYjg4cnhnaGJTX1JwR1VrSWlWVWppSERaY2NsRFhNUk5nY3NkRGVTa1pJcXg2bUNLNUxMTUR3anNVUWhzeGpzdklLaV9LU2MxRnlGOHN5U0RMQUFRa3RtSHNTX2lVRFhGQmdwU3NsbkZoZVhBc1hCU2xHVWdmMllLTUFJQUEiLCJpZCI6ImZjX1FfOVNhTy1YRGZhTzl1OFAydE9XdUFVXzEifQ%3D%3D"
+    },
+    {
+      "question": "Who owns fisheries?",
+      "snippet": "State, provincial, and federal governments hold the resources in trust for the general use of their citizens. Although this system is different from the private ownership of fisheries in much of Europe, public ownership in North America derives directly from early English practices…",
+      "title": "About Fisheries",
+      "link": "https://fisheries.org/membership/new-to-fisheries/about-fisheries/#:~:text=State%2C%20provincial%2C%20and%20federal%20governments,directly%20from%20early%20English%20practices%E2%80%A6",
+      "displayed_link": "https://fisheries.org › membership › new-to-fisheries › ab...",
+      "source_logo": "https://serpapi.com/searches/6852ff423ee4c2b333a326b7/images/a7dae833de1bb8b2f9f98576264f6bd7f418ea0b4da3d4f8a5cf2e7d449643e2.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR2QyWjBVVlV5VjNrMVNWbFBaVzVKZFVGaE1sUkRUMjVMZG00d1EzRmplQzFqTFVKMmIxOVpSWGRZUXpSaFowbzRVRk40VTFKa2QxSmhkVE13YlVwcFN6TlVSMVJLWVZwUlQzZEVSRnB0U0ZwMVZVYzJNMkkzTFVSa2R4SVhVVjg1VTJGUExWaEVabUZQT1hVNFVESjBUMWQxUVZVYUlrRkdUVUZIUjI5NGJ6a3pSMWhVVlRSNmIwNUZSRWhFV0dWWGIwRlFOM0ZUY0ZFIiwiZmN2IjoiMyIsImVpIjoiUV85U2FPLVhEZmFPOXU4UDJ0T1d1QVUiLCJxYyI6IkNoSmliM1J6Wm05eVpDQm1hWE5vWlhKcFpYTVFBSDN5M3NzLSIsInF1ZXN0aW9uIjoiV2hvIG93bnMgZmlzaGVyaWVzPyIsImxrIjoiR2hKM2FHOGdiM2R1Y3lCbWFYTm9aWEpwWlhNIiwiYnMiOiJjLU5LNE5JSno2aFVTTWxNVVNqSlNGVndUc3hMVE1sTXpGTkl6azlSU01zc3prZ3R5a3d0QnZKeWNoSUxpbFB0SmVhRUdPbEthWmNqYVVuR3I0VkxqMHM0UENOZkliODhyeGdoYlNfUnBHVWtJaVZVamlIRFpjY2xEWE1STmdjc2REZVNrWklxeDZtQ0s1TExNRHdqc1VRaHN4anN2SUtpX0tTYzFGeUY4c3lTRExBQVFrdG1Ic1NfaVVEWEZCZ3BTc2xuRmhlWEFzWEJTbEdVZ2YyWUtNQUlBQSIsImlkIjoiZmNfUV85U2FPLVhEZmFPOXU4UDJ0T1d1QVVfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR2QyWjBVVlV5VjNrMVNWbFBaVzVKZFVGaE1sUkRUMjVMZG00d1EzRmplQzFqTFVKMmIxOVpSWGRZUXpSaFowbzRVRk40VTFKa2QxSmhkVE13YlVwcFN6TlVSMVJLWVZwUlQzZEVSRnB0U0ZwMVZVYzJNMkkzTFVSa2R4SVhVVjg1VTJGUExWaEVabUZQT1hVNFVESjBUMWQxUVZVYUlrRkdUVUZIUjI5NGJ6a3pSMWhVVlRSNmIwNUZSRWhFV0dWWGIwRlFOM0ZUY0ZFIiwiZmN2IjoiMyIsImVpIjoiUV85U2FPLVhEZmFPOXU4UDJ0T1d1QVUiLCJxYyI6IkNoSmliM1J6Wm05eVpDQm1hWE5vWlhKcFpYTVFBSDN5M3NzLSIsInF1ZXN0aW9uIjoiV2hvIG93bnMgZmlzaGVyaWVzPyIsImxrIjoiR2hKM2FHOGdiM2R1Y3lCbWFYTm9aWEpwWlhNIiwiYnMiOiJjLU5LNE5JSno2aFVTTWxNVVNqSlNGVndUc3hMVE1sTXpGTkl6azlSU01zc3prZ3R5a3d0QnZKeWNoSUxpbFB0SmVhRUdPbEthWmNqYVVuR3I0VkxqMHM0UENOZkliODhyeGdoYlNfUnBHVWtJaVZVamlIRFpjY2xEWE1STmdjc2REZVNrWklxeDZtQ0s1TExNRHdqc1VRaHN4anN2SUtpX0tTYzFGeUY4c3lTRExBQVFrdG1Ic1NfaVVEWEZCZ3BTc2xuRmhlWEFzWEJTbEdVZ2YyWUtNQUlBQSIsImlkIjoiZmNfUV85U2FPLVhEZmFPOXU4UDJ0T1d1QVVfMSJ9"
+    },
+    {
+      "question": "Why did fisheries collapse?",
+      "snippet": "If the world's wild fish resources are to survive, such practices are no longer sustainable. A new study suggested that overfishing could lead to a catastrophic loss of marine species and global fisheries cease to exist by 2050. The numbers are disconcerting.",
+      "title": "restoring ocean life | Collapsing Fisheries - Oceaneos",
+      "link": "https://oceaneos.org/state-of-our-oceans/collapsing-fisheries-examples-of-different-species/#:~:text=If%20the%20world's%20wild%20fish,cease%20to%20exist%20by%202050.&text=The%20numbers%20are%20disconcerting.",
+      "displayed_link": "https://oceaneos.org › state-of-our-oceans › collapsing-fi...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSefB5VxmIB05-S_d56J7a8dG63YQVNS-0WEE7hiz6ovEZrHmDzo9on5s9JXA&s",
+      "source_logo": "https://serpapi.com/searches/6852ff423ee4c2b333a326b7/images/a7dae833de1bb8b2f9f98576264f6bd7bcc9e41c8af46f43964bb714e7c66992.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR2QyWjBVVlV5VjNrMVNWbFBaVzVKZFVGaE1sUkRUMjVMZG00d1EzRmplQzFqTFVKMmIxOVpSWGRZUXpSaFowbzRVRk40VTFKa2QxSmhkVE13YlVwcFN6TlVSMVJLWVZwUlQzZEVSRnB0U0ZwMVZVYzJNMkkzTFVSa2R4SVhVVjg1VTJGUExWaEVabUZQT1hVNFVESjBUMWQxUVZVYUlrRkdUVUZIUjI5NGJ6a3pSMWhVVlRSNmIwNUZSRWhFV0dWWGIwRlFOM0ZUY0ZFIiwiZmN2IjoiMyIsImVpIjoiUV85U2FPLVhEZmFPOXU4UDJ0T1d1QVUiLCJxYyI6IkNoSmliM1J6Wm05eVpDQm1hWE5vWlhKcFpYTVFBSDN5M3NzLSIsInF1ZXN0aW9uIjoiV2h5IGRpZCBmaXNoZXJpZXMgY29sbGFwc2U/IiwibGsiOiJHaHAzYUhrZ1pHbGtJR1pwYzJobGNtbGxjeUJqYjJ4c1lYQnpaUSIsImJzIjoiYy1OSzROSUp6NmhVU01sTVVTakpTRlZ3VHN4TFRNbE16Rk5Jems5UlNNc3N6a2d0eWt3dEJ2SnljaElMaWxQdEplYUVHT2xLYVpjamFVbkdyNFZMajBzNFBDTmZJYjg4cnhnaGJTX1JwR1VrSWlWVWppSERaY2NsRFhNUk5nY3NkRGVTa1pJcXg2bUNLNUxMTUR3anNVUWhzeGpzdklLaV9LU2MxRnlGOHN5U0RMQUFRa3RtSHNTX2lVRFhGQmdwU3NsbkZoZVhBc1hCU2xHVWdmMllLTUFJQUEiLCJpZCI6ImZjX1FfOVNhTy1YRGZhTzl1OFAydE9XdUFVXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR2QyWjBVVlV5VjNrMVNWbFBaVzVKZFVGaE1sUkRUMjVMZG00d1EzRmplQzFqTFVKMmIxOVpSWGRZUXpSaFowbzRVRk40VTFKa2QxSmhkVE13YlVwcFN6TlVSMVJLWVZwUlQzZEVSRnB0U0ZwMVZVYzJNMkkzTFVSa2R4SVhVVjg1VTJGUExWaEVabUZQT1hVNFVESjBUMWQxUVZVYUlrRkdUVUZIUjI5NGJ6a3pSMWhVVlRSNmIwNUZSRWhFV0dWWGIwRlFOM0ZUY0ZFIiwiZmN2IjoiMyIsImVpIjoiUV85U2FPLVhEZmFPOXU4UDJ0T1d1QVUiLCJxYyI6IkNoSmliM1J6Wm05eVpDQm1hWE5vWlhKcFpYTVFBSDN5M3NzLSIsInF1ZXN0aW9uIjoiV2h5IGRpZCBmaXNoZXJpZXMgY29sbGFwc2U%2FIiwibGsiOiJHaHAzYUhrZ1pHbGtJR1pwYzJobGNtbGxjeUJqYjJ4c1lYQnpaUSIsImJzIjoiYy1OSzROSUp6NmhVU01sTVVTakpTRlZ3VHN4TFRNbE16Rk5Jems5UlNNc3N6a2d0eWt3dEJ2SnljaElMaWxQdEplYUVHT2xLYVpjamFVbkdyNFZMajBzNFBDTmZJYjg4cnhnaGJTX1JwR1VrSWlWVWppSERaY2NsRFhNUk5nY3NkRGVTa1pJcXg2bUNLNUxMTUR3anNVUWhzeGpzdklLaV9LU2MxRnlGOHN5U0RMQUFRa3RtSHNTX2lVRFhGQmdwU3NsbkZoZVhBc1hCU2xHVWdmMllLTUFJQUEiLCJpZCI6ImZjX1FfOVNhTy1YRGZhTzl1OFAydE9XdUFVXzEifQ%3D%3D"
+    },
+    {
+      "question": "What is the problem with the fisheries in Canada?",
+      "snippet": "Yet over half of Canadian fish stocks lack climate-informed assessments and adaptive management plans. This shortfall leaves Canada's fisheries doubly vulnerable to climate change and overfishing, posing severe risks to biodiversity and community resilience.",
+      "title": "Oceana Canada's 2024 Fishery Audit Reveals Critical Need to Protect ...",
+      "date": "Nov 19, 2024",
+      "link": "https://oceana.ca/en/press-releases/oceana-canadas-2024-fishery-audit-reveals-critical-need-to-protect-and-rebuild-canadas-ocean-ecosystems/#:~:text=Yet%20over%20half%20of%20Canadian,to%20biodiversity%20and%20community%20resilience.",
+      "displayed_link": "https://oceana.ca › press-releases › oceana-canadas-2024-...",
+      "source_logo": "https://serpapi.com/searches/6852ff423ee4c2b333a326b7/images/a7dae833de1bb8b2f9f98576264f6bd7f741d76386e2b8b04d1468dadf551f40.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR2QyWjBVVlV5VjNrMVNWbFBaVzVKZFVGaE1sUkRUMjVMZG00d1EzRmplQzFqTFVKMmIxOVpSWGRZUXpSaFowbzRVRk40VTFKa2QxSmhkVE13YlVwcFN6TlVSMVJLWVZwUlQzZEVSRnB0U0ZwMVZVYzJNMkkzTFVSa2R4SVhVVjg1VTJGUExWaEVabUZQT1hVNFVESjBUMWQxUVZVYUlrRkdUVUZIUjI5NGJ6a3pSMWhVVlRSNmIwNUZSRWhFV0dWWGIwRlFOM0ZUY0ZFIiwiZmN2IjoiMyIsImVpIjoiUV85U2FPLVhEZmFPOXU4UDJ0T1d1QVUiLCJxYyI6IkNoSmliM1J6Wm05eVpDQm1hWE5vWlhKcFpYTVFBSDN5M3NzLSIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgcHJvYmxlbSB3aXRoIHRoZSBmaXNoZXJpZXMgaW4gQ2FuYWRhPyIsImxrIjoiR2g5cGMzTjFaWE1nZDJsMGFDQm1hWE5vWlhKcFpYTWdhVzRnWTJGdVlXUmgiLCJicyI6ImMtTks0TklKejZoVVNNbE1VU2pKU0ZWd1RzeExUTWxNekZOSXprOVJTTXNzemtndHlrd3RCdkp5Y2hJTGlsUHRKZWFFR09sS2FaY2phVW5HcjRWTGowczRQQ05mSWI4OHJ4Z2hiU19ScEdVa0lpVlVqaUhEWmNjbERYTVJOZ2NzZERlU2taSXF4Nm1DSzVMTE1Ed2pzVVFoc3hqc3ZJS2lfS1NjMUZ5RjhzeVNETEFBUWt0bUhzU19pVURYRkJncFNzbG5GaGVYQXNYQlNsR1VnZjJZS01BSUFBIiwiaWQiOiJmY19RXzlTYU8tWERmYU85dThQMnRPV3VBVV8xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR2QyWjBVVlV5VjNrMVNWbFBaVzVKZFVGaE1sUkRUMjVMZG00d1EzRmplQzFqTFVKMmIxOVpSWGRZUXpSaFowbzRVRk40VTFKa2QxSmhkVE13YlVwcFN6TlVSMVJLWVZwUlQzZEVSRnB0U0ZwMVZVYzJNMkkzTFVSa2R4SVhVVjg1VTJGUExWaEVabUZQT1hVNFVESjBUMWQxUVZVYUlrRkdUVUZIUjI5NGJ6a3pSMWhVVlRSNmIwNUZSRWhFV0dWWGIwRlFOM0ZUY0ZFIiwiZmN2IjoiMyIsImVpIjoiUV85U2FPLVhEZmFPOXU4UDJ0T1d1QVUiLCJxYyI6IkNoSmliM1J6Wm05eVpDQm1hWE5vWlhKcFpYTVFBSDN5M3NzLSIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgcHJvYmxlbSB3aXRoIHRoZSBmaXNoZXJpZXMgaW4gQ2FuYWRhPyIsImxrIjoiR2g5cGMzTjFaWE1nZDJsMGFDQm1hWE5vWlhKcFpYTWdhVzRnWTJGdVlXUmgiLCJicyI6ImMtTks0TklKejZoVVNNbE1VU2pKU0ZWd1RzeExUTWxNekZOSXprOVJTTXNzemtndHlrd3RCdkp5Y2hJTGlsUHRKZWFFR09sS2FaY2phVW5HcjRWTGowczRQQ05mSWI4OHJ4Z2hiU19ScEdVa0lpVlVqaUhEWmNjbERYTVJOZ2NzZERlU2taSXF4Nm1DSzVMTE1Ed2pzVVFoc3hqc3ZJS2lfS1NjMUZ5RjhzeVNETEFBUWt0bUhzU19pVURYRkJncFNzbG5GaGVYQXNYQlNsR1VnZjJZS01BSUFBIiwiaWQiOiJmY19RXzlTYU8tWERmYU85dThQMnRPV3VBVV8xIn0%3D"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Botsford Fisheries Ltd.",
+      "link": "https://seafoodfromcanada.ca/listing/botsford-fisheries-ltd/",
+      "redirect_link": "https://www.google.ca/url?sa=t&source=web&rct=j&opi=89978449&url=https://seafoodfromcanada.ca/listing/botsford-fisheries-ltd/&ved=2ahUKEwivxf37xvuNAxV2h_0HHdqpBVcQFnoECDYQAQ",
+      "displayed_link": "https://seafoodfromcanada.ca › listing › botsford-fisheri...",
+      "favicon": "https://serpapi.com/searches/6852ff423ee4c2b333a326b7/images/d34dedc109b86d9fb79c5f868ff9edb911009895e5106389e9317270ce1c137a.png",
+      "snippet": "Botsford Fisheries Ltd ... Contact ... Hiro Inoue ... 506-577-4327 ... admin@botsfordfisheries.ca ... P. O. Box 1093 Cap Pelé NB ... E4N 3B3 ... Exports to ... Species ...",
+      "snippet_highlighted_words": [
+        "Botsford Fisheries Ltd"
+      ],
+      "source": "Seafood from Canada"
+    },
+    {
+      "position": 2,
+      "title": "Botsford Fisheries Ltd, 2112 Route 950, Petit-Cap, NB, CA",
+      "link": "https://www.mapquest.com/ca/new-brunswick/botsford-fisheries-ltd-359130404",
+      "redirect_link": "https://www.google.ca/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mapquest.com/ca/new-brunswick/botsford-fisheries-ltd-359130404&ved=2ahUKEwivxf37xvuNAxV2h_0HHdqpBVcQFnoECC8QAQ",
+      "displayed_link": "https://www.mapquest.com › Canada › New Brunswick",
+      "favicon": "https://serpapi.com/searches/6852ff423ee4c2b333a326b7/images/d34dedc109b86d9fb79c5f868ff9edb9a842b063daf03a6bdd7078a5e7677c97.webp",
+      "snippet": "Botsford Fisheries Ltd is a seafood company located in Petit Cap, Canada, offering a variety of fresh seafood products.",
+      "snippet_highlighted_words": [
+        "is a seafood company located in Petit Cap, Canada"
+      ],
+      "source": "MapQuest"
+    },
+    {
+      "position": 3,
+      "title": "Botsford Fisheries Ltd. Company Profile | Petit-Cap, NB, ...",
+      "link": "https://www.dnb.com/business-directory/company-profiles.botsford_fisheries_ltd.574b425bc610b87c8a10c3526e1e0150.html",
+      "redirect_link": "https://www.google.ca/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.dnb.com/business-directory/company-profiles.botsford_fisheries_ltd.574b425bc610b87c8a10c3526e1e0150.html&ved=2ahUKEwivxf37xvuNAxV2h_0HHdqpBVcQFnoECDgQAQ",
+      "displayed_link": "https://www.dnb.com › ... › PETIT-CAP",
+      "favicon": "https://serpapi.com/searches/6852ff423ee4c2b333a326b7/images/d34dedc109b86d9fb79c5f868ff9edb9bcdd7db541a9e2bbbeb7c71060905184.png",
+      "snippet": "Find company research, competitor information, contact details & financial data for Botsford Fisheries Ltd. of Petit-Cap, NB.",
+      "snippet_highlighted_words": [
+        "Botsford Fisheries Ltd. of Petit-Cap, NB"
+      ],
+      "source": "Dun & Bradstreet"
+    },
+    {
+      "position": 4,
+      "title": "Directory | Export Businesses | Seafood ...",
+      "link": "https://seafoodfromcanada.ca/directory/species/herring-atlantic/",
+      "redirect_link": "https://www.google.ca/url?sa=t&source=web&rct=j&opi=89978449&url=https://seafoodfromcanada.ca/directory/species/herring-atlantic/&ved=2ahUKEwivxf37xvuNAxV2h_0HHdqpBVcQFnoECC4QAQ",
+      "displayed_link": "https://seafoodfromcanada.ca › species › herring-atlantic",
+      "favicon": "https://serpapi.com/searches/6852ff423ee4c2b333a326b7/images/d34dedc109b86d9fb79c5f868ff9edb9acce3aecca9db2a8a9d46cb4152b986e.png",
+      "snippet": "... St. John's NL A1B 3T1 · Botsford Fisheries Ltd. Full Profile. Contact. Hiro Inoue. 506-577-4327. admin@botsfordfisheries.ca. P. O. Box 1093 Cap Pelé NB E4N 3B3.",
+      "snippet_highlighted_words": [
+        "Botsford Fisheries Ltd"
+      ],
+      "source": "Seafood from Canada"
+    },
+    {
+      "position": 5,
+      "title": "BOTSFORD FISHERIES LTD",
+      "link": "https://roovio.pdqs.mobi/botsford-fisheries-ltd/",
+      "redirect_link": "https://www.google.ca/url?sa=t&source=web&rct=j&opi=89978449&url=https://roovio.pdqs.mobi/botsford-fisheries-ltd/&ved=2ahUKEwivxf37xvuNAxV2h_0HHdqpBVcQFnoECC0QAQ",
+      "displayed_link": "https://roovio.pdqs.mobi › botsford-fisheries-ltd",
+      "snippet": "2112 ROUTE 950. PETIT-CAP, NB E4N 2J8 View Map (506) 577-4327 http://www.botsfordfisheries.com. HOURS OF OPERATION. Monday: 8:30AM - 4:30PM.",
+      "snippet_highlighted_words": [
+        "2112 ROUTE 950. PETIT-CAP, NB E4N 2J8"
+      ],
+      "source": "pdqs.mobi"
+    },
+    {
+      "position": 6,
+      "title": "Botsford Fisheries Ltd. Les Pêcheries Botsford Ltée Jobs ...",
+      "link": "https://www.jobbank.gc.ca/browsejobs/employer/Botsford+Fisheries+Ltd.+Les+P%C3%AAcheries+Botsford+Lt%C3%A9e/ca",
+      "redirect_link": "https://www.google.ca/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.jobbank.gc.ca/browsejobs/employer/Botsford%2BFisheries%2BLtd.%2BLes%2BP%25C3%25AAcheries%2BBotsford%2BLt%25C3%25A9e/ca&ved=2ahUKEwivxf37xvuNAxV2h_0HHdqpBVcQFnoECFEQAQ",
+      "displayed_link": "https://www.jobbank.gc.ca › browsejobs › employer",
+      "favicon": "https://serpapi.com/searches/6852ff423ee4c2b333a326b7/images/d34dedc109b86d9fb79c5f868ff9edb9f200f92eacd5fd0d3aae40402279bbbb.png",
+      "snippet": "Botsford Fisheries Ltd. Les Pêcheries Botsford Ltée Jobs By province · Jobs by employer · Botsford Fisheries Ltd. Les Pêcheries Botsford Ltée Jobs By province.",
+      "snippet_highlighted_words": [
+        "Botsford Fisheries Ltd. Les Pêcheries Botsford Ltée"
+      ],
+      "source": "Job Bank"
+    },
+    {
+      "position": 7,
+      "title": "Botsford-Fisheries-Ltd in Beaubassin East NB",
+      "link": "https://www.yellowpages.ca/search/si/1/Botsford-Fisheries-Ltd/Beaubassin+East+NB",
+      "redirect_link": "https://www.google.ca/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.yellowpages.ca/search/si/1/Botsford-Fisheries-Ltd/Beaubassin%2BEast%2BNB&ved=2ahUKEwivxf37xvuNAxV2h_0HHdqpBVcQFnoECFMQAQ",
+      "displayed_link": "https://www.yellowpages.ca › Canada › New Brunswick",
+      "favicon": "https://serpapi.com/searches/6852ff423ee4c2b333a326b7/images/d34dedc109b86d9fb79c5f868ff9edb93037bebe39f4cf0c6241c4365e593ddc.webp",
+      "snippet": "Botsford-Fisheries-Ltd near Beaubassin East NB (1864 Result(s)) ; Aboiteau Fisheries 2001 Ltd. 77 ch du Quai · E4N 1S5 ; R W Fisheries Ltd. 2056 Route 950 · E0A 1J0.",
+      "snippet_highlighted_words": [
+        "Botsford-Fisheries-Ltd near Beaubassin East NB"
+      ],
+      "source": "YellowPages.ca"
+    },
+    {
+      "position": 8,
+      "title": "Botsford Fisheries Ltd.",
+      "link": "https://panjiva.com/Botsford-Fisheries-Ltd/1770185",
+      "redirect_link": "https://www.google.ca/url?sa=t&source=web&rct=j&opi=89978449&url=https://panjiva.com/Botsford-Fisheries-Ltd/1770185&ved=2ahUKEwivxf37xvuNAxV2h_0HHdqpBVcQFnoECFIQAQ",
+      "displayed_link": "https://panjiva.com › Botsford-Fisheries-Ltd",
+      "favicon": "https://serpapi.com/searches/6852ff423ee4c2b333a326b7/images/d34dedc109b86d9fb79c5f868ff9edb9ee2708f7b0974df3b55b7dfa7ae974db.webp",
+      "snippet": "165 shipment records available ; Shipper Name. Botsford Fisheries Ltd ; Shipper Address. CAP PELE NEW BRUNSWICK CANADA E4N 3B3 ; Consignee Name. Grupo Ramos S.A..",
+      "snippet_highlighted_words": [
+        "165 shipment records available"
+      ],
+      "source": "Panjiva"
+    },
+    {
+      "position": 9,
+      "title": "Botsford Fisheries Ltd. - Jobs | FillaRole",
+      "link": "https://jobs.fillarole.ca/companies/113376/botsford-fisheries-ltd/2023/9463-fish-and-seafood-plant-workers",
+      "redirect_link": "https://www.google.ca/url?sa=t&source=web&rct=j&opi=89978449&url=https://jobs.fillarole.ca/companies/113376/botsford-fisheries-ltd/2023/9463-fish-and-seafood-plant-workers&ved=2ahUKEwivxf37xvuNAxV2h_0HHdqpBVcQFnoECFUQAQ",
+      "displayed_link": "https://jobs.fillarole.ca › botsford-fisheries-ltd › 9463-fi...",
+      "favicon": "https://serpapi.com/searches/6852ff423ee4c2b333a326b7/images/d34dedc109b86d9fb79c5f868ff9edb902e71c222fbabb3fc4b838813ebcc6ea.webp",
+      "snippet": "Search Indeed Canada jobs for Botsford Fisheries Ltd. support@fillarole.ca; 232 -111 Research Dr, Saskatoon, SK S7N 3R2, Canada. Terms of Use.",
+      "snippet_highlighted_words": [
+        "Search Indeed Canada jobs for Botsford Fisheries Ltd"
+      ],
+      "source": "FillaRole | CA"
+    },
+    {
+      "position": 10,
+      "title": "Botsford Fisheries Ltd in Petit Cap, NB | 5065774327",
+      "link": "https://411.ca/business/profile/6085177",
+      "redirect_link": "https://www.google.ca/url?sa=t&source=web&rct=j&opi=89978449&url=https://411.ca/business/profile/6085177&ved=2ahUKEwivxf37xvuNAxV2h_0HHdqpBVcQFnoECFQQAQ",
+      "displayed_link": "https://411.ca › ... › NB › Petit Cap › Seafood Stores",
+      "favicon": "https://serpapi.com/searches/6852ff423ee4c2b333a326b7/images/d34dedc109b86d9fb79c5f868ff9edb9029222a6762d3059beb448a0ba399c14.webp",
+      "snippet": "Botsford Fisheries Ltd. 2112 Route 950, Petit Cap, NB. Call 506-577-4327. Business details. Categories. Seafood Stores · Seafood Wholesalers ...",
+      "snippet_highlighted_words": [
+        "2112 Route 950, Petit Cap, NB"
+      ],
+      "source": "411.ca"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Botsford fisheries jobs",
+      "link": "https://www.google.ca/search?sca_esv=dcff718841928c00&gl=ca&hl=en&q=Botsford+fisheries+jobs&sa=X&ved=2ahUKEwivxf37xvuNAxV2h_0HHdqpBVcQ1QJ6BAhQEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.ca&hl=en&location=New+Brunswick%2C+Canada&q=Botsford+fisheries+jobs"
+    },
+    {
+      "block_position": 1,
+      "query": "Botsford fisheries owner",
+      "link": "https://www.google.ca/search?sca_esv=dcff718841928c00&gl=ca&hl=en&q=Botsford+fisheries+owner&sa=X&ved=2ahUKEwivxf37xvuNAxV2h_0HHdqpBVcQ1QJ6BAhPEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.ca&hl=en&location=New+Brunswick%2C+Canada&q=Botsford+fisheries+owner"
+    },
+    {
+      "block_position": 1,
+      "query": "Boudreau Farm & sea products Ltd",
+      "link": "https://www.google.ca/search?sca_esv=dcff718841928c00&gl=ca&hl=en&q=Boudreau+Farm+%26+sea+products+Ltd&sa=X&ved=2ahUKEwivxf37xvuNAxV2h_0HHdqpBVcQ1QJ6BAhOEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.ca&hl=en&location=New+Brunswick%2C+Canada&q=Boudreau+Farm+%26+sea+products+Ltd"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.ca/search?q=Botsford+Fisheries&sca_esv=dcff718841928c00&gl=ca&hl=en&ei=Q_9SaO-XDfaO9u8P2tOWuAU&start=10&sa=N&sstk=Ac65TH7mxzskuJ_QyMrE9q2hstE-kwCasKx9AptbgNuzXa_i_hw2YfFLMfaeNyMIgnuRRdX-T_T-vug9kQ9yUrc6jCvtuJ_85IFR-A&ved=2ahUKEwivxf37xvuNAxV2h_0HHdqpBVcQ8NMDegQIDxAW",
+    "other_pages": {
+      "2": "https://www.google.ca/search?q=Botsford+Fisheries&sca_esv=dcff718841928c00&gl=ca&hl=en&ei=Q_9SaO-XDfaO9u8P2tOWuAU&start=10&sa=N&sstk=Ac65TH7mxzskuJ_QyMrE9q2hstE-kwCasKx9AptbgNuzXa_i_hw2YfFLMfaeNyMIgnuRRdX-T_T-vug9kQ9yUrc6jCvtuJ_85IFR-A&ved=2ahUKEwivxf37xvuNAxV2h_0HHdqpBVcQ8tMDegQIDxAE",
+      "3": "https://www.google.ca/search?q=Botsford+Fisheries&sca_esv=dcff718841928c00&gl=ca&hl=en&ei=Q_9SaO-XDfaO9u8P2tOWuAU&start=20&sa=N&sstk=Ac65TH7mxzskuJ_QyMrE9q2hstE-kwCasKx9AptbgNuzXa_i_hw2YfFLMfaeNyMIgnuRRdX-T_T-vug9kQ9yUrc6jCvtuJ_85IFR-A&ved=2ahUKEwivxf37xvuNAxV2h_0HHdqpBVcQ8tMDegQIDxAG",
+      "4": "https://www.google.ca/search?q=Botsford+Fisheries&sca_esv=dcff718841928c00&gl=ca&hl=en&ei=Q_9SaO-XDfaO9u8P2tOWuAU&start=30&sa=N&sstk=Ac65TH7mxzskuJ_QyMrE9q2hstE-kwCasKx9AptbgNuzXa_i_hw2YfFLMfaeNyMIgnuRRdX-T_T-vug9kQ9yUrc6jCvtuJ_85IFR-A&ved=2ahUKEwivxf37xvuNAxV2h_0HHdqpBVcQ8tMDegQIDxAI",
+      "5": "https://www.google.ca/search?q=Botsford+Fisheries&sca_esv=dcff718841928c00&gl=ca&hl=en&ei=Q_9SaO-XDfaO9u8P2tOWuAU&start=40&sa=N&sstk=Ac65TH7mxzskuJ_QyMrE9q2hstE-kwCasKx9AptbgNuzXa_i_hw2YfFLMfaeNyMIgnuRRdX-T_T-vug9kQ9yUrc6jCvtuJ_85IFR-A&ved=2ahUKEwivxf37xvuNAxV2h_0HHdqpBVcQ8tMDegQIDxAK",
+      "6": "https://www.google.ca/search?q=Botsford+Fisheries&sca_esv=dcff718841928c00&gl=ca&hl=en&ei=Q_9SaO-XDfaO9u8P2tOWuAU&start=50&sa=N&sstk=Ac65TH7mxzskuJ_QyMrE9q2hstE-kwCasKx9AptbgNuzXa_i_hw2YfFLMfaeNyMIgnuRRdX-T_T-vug9kQ9yUrc6jCvtuJ_85IFR-A&ved=2ahUKEwivxf37xvuNAxV2h_0HHdqpBVcQ8tMDegQIDxAM",
+      "7": "https://www.google.ca/search?q=Botsford+Fisheries&sca_esv=dcff718841928c00&gl=ca&hl=en&ei=Q_9SaO-XDfaO9u8P2tOWuAU&start=60&sa=N&sstk=Ac65TH7mxzskuJ_QyMrE9q2hstE-kwCasKx9AptbgNuzXa_i_hw2YfFLMfaeNyMIgnuRRdX-T_T-vug9kQ9yUrc6jCvtuJ_85IFR-A&ved=2ahUKEwivxf37xvuNAxV2h_0HHdqpBVcQ8tMDegQIDxAO",
+      "8": "https://www.google.ca/search?q=Botsford+Fisheries&sca_esv=dcff718841928c00&gl=ca&hl=en&ei=Q_9SaO-XDfaO9u8P2tOWuAU&start=70&sa=N&sstk=Ac65TH7mxzskuJ_QyMrE9q2hstE-kwCasKx9AptbgNuzXa_i_hw2YfFLMfaeNyMIgnuRRdX-T_T-vug9kQ9yUrc6jCvtuJ_85IFR-A&ved=2ahUKEwivxf37xvuNAxV2h_0HHdqpBVcQ8tMDegQIDxAQ",
+      "9": "https://www.google.ca/search?q=Botsford+Fisheries&sca_esv=dcff718841928c00&gl=ca&hl=en&ei=Q_9SaO-XDfaO9u8P2tOWuAU&start=80&sa=N&sstk=Ac65TH7mxzskuJ_QyMrE9q2hstE-kwCasKx9AptbgNuzXa_i_hw2YfFLMfaeNyMIgnuRRdX-T_T-vug9kQ9yUrc6jCvtuJ_85IFR-A&ved=2ahUKEwivxf37xvuNAxV2h_0HHdqpBVcQ8tMDegQIDxAS",
+      "10": "https://www.google.ca/search?q=Botsford+Fisheries&sca_esv=dcff718841928c00&gl=ca&hl=en&ei=Q_9SaO-XDfaO9u8P2tOWuAU&start=90&sa=N&sstk=Ac65TH7mxzskuJ_QyMrE9q2hstE-kwCasKx9AptbgNuzXa_i_hw2YfFLMfaeNyMIgnuRRdX-T_T-vug9kQ9yUrc6jCvtuJ_85IFR-A&ved=2ahUKEwivxf37xvuNAxV2h_0HHdqpBVcQ8tMDegQIDxAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.ca&hl=en&location=New+Brunswick%2C+Canada&q=Botsford+Fisheries&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.ca&hl=en&location=New+Brunswick%2C+Canada&q=Botsford+Fisheries&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.ca&hl=en&location=New+Brunswick%2C+Canada&q=Botsford+Fisheries&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.ca&hl=en&location=New+Brunswick%2C+Canada&q=Botsford+Fisheries&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.ca&hl=en&location=New+Brunswick%2C+Canada&q=Botsford+Fisheries&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.ca&hl=en&location=New+Brunswick%2C+Canada&q=Botsford+Fisheries&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.ca&hl=en&location=New+Brunswick%2C+Canada&q=Botsford+Fisheries&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.ca&hl=en&location=New+Brunswick%2C+Canada&q=Botsford+Fisheries&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.ca&hl=en&location=New+Brunswick%2C+Canada&q=Botsford+Fisheries&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.ca&hl=en&location=New+Brunswick%2C+Canada&q=Botsford+Fisheries&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.ca&hl=en&location=New+Brunswick%2C+Canada&q=Botsford+Fisheries&start=90"
+    }
+  }
+}

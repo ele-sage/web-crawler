@@ -1,0 +1,207 @@
+{
+  "search_metadata": {
+    "id": "685466eab2c6138502686324",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/50a9a219b3f1ede6/685466eab2c6138502686324.json",
+    "created_at": "2025-06-19 19:37:14 UTC",
+    "processed_at": "2025-06-19 19:37:14 UTC",
+    "google_url": "https://www.google.ca/search?q=RENOVATEUR+AUBAINE+INC.&oq=RENOVATEUR+AUBAINE+INC.&uule=w+CAIQICINUXVlYmVjLENhbmFkYQ&hl=en&gl=ca&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/50a9a219b3f1ede6/685466eab2c6138502686324.html",
+    "total_time_taken": 2.24
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "RENOVATEUR AUBAINE INC.",
+    "location_requested": "Quebec, Canada",
+    "location_used": "Quebec,Canada",
+    "google_domain": "google.ca",
+    "hl": "en",
+    "gl": "ca",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "RENOVATEUR AUBAINE INC.",
+    "total_results": 327000,
+    "time_taken_displayed": 0.29,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "ai_overview": {
+    "page_token": "9f_xO3icvZTbkrJGEIBv8yLhZrOCrq64VdRfMzDigCdccdUbChAHlYMLKLp3ybPkqfI0_wAuSn43lVRSoco59WF6uj_719-9TbD746ff3CTZxy8sm6ZpjYQh8ZyabbJmfA5sdh16cWS73w4HzxHSBxFgDYt4qM9n3sKfbfto6Fp-d7fQGNcTnIAhnmCbzPkoPDF2LHCMsxHa8lI3lVGqjlX9ZPPjCKtuDHZMfoFgWGbsbOn1p23MGiwddj8_SXRTi2tOUHNWT1I9mhyR3qw1uDpfG7GmTxXAv_nEH04QPSQEAFLV0u5bb2A2K7eH-Lpw6UhEBDUIYMWBTP19HiAXQL7XMQZXsVZee-tZbNKh3wUIki5XDaS8ExVTHlX2ApFU9GBlp5Wm6N7rLtLPuAjdwDG45FsqzGFmCVPYu3ogUgrGsE3x0Lv3PGoIpbCDjyK8I83s4QSiRjykwbIrQgvMsVZEpzobxVm5xWmHC2V_q3u2eoDu4xNptZdOcGjVR63t2n8kv-Qg2XFJUnxLUhA4ekPfiInE1_o1WC8xglm-Xy_vWBSP18DsL5KTiQqhWOaQXGuRl19eukU1yWaBgVpSsE5FOAcaudpXig1vfOF9NlGMcHGe_RDOpHIWaQarCCZUb5ItsJrHIhYOAODhM3grrBYaHfE5k0gUI6B1SaGnA1JGrYLrW-AOqGRLV5sQ9CXO1rQiWJH60a5xqjRdi_wRBGgYSATpAPTSQjVLEQYFZ1k8hIZOddLiZgm85n4G1J9SwQiIGpC_zvznF34pofjc4UaFyynC7YkSWmoSftC_5ckKZs5joqQXbkLf-gctyP7fycoalEsz6d-QpX5B1p0GBTM3hS-ck5U1qEXRoG7J0kqykIsnfM8wBleytJIs5ZasskGltEFVyMqGv0OWVCFLK8lCX5F1aVCfZClj6aMkK29QP5L1nzaoHDCnmKrd6rAlf6YPyZLlNdoTNPwIxlxbMVbqEDxDf23Oadda-8nLPgrparN6gQ0lOa-Yd4Eqj2ZgivTJA9BpkofoAQ_FGuN7UShwZhP3unKrczp0LEME-iqKNyNsTN32e2ccfozmoYFU8c0iz-PJaNFJtn3fSBZhxDfOoXowXt_cUWcI9z46-GvdaS57icWvlWdVdR_16TkY646HDud3b8vB5f6dx7JvSnPf4NUm57mBddoNjEGyMqNmp2vswNNRy-OKhe6Qt9tyywwVehLZAu1LzR0YMLFtGk58FLi26aycVb3lcA3OdmzGJ8l5LzTr3wGHYXkJ",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=9f_xO3icvZTbkrJGEIBv8yLhZrOCrq64VdRfMzDigCdccdUbChAHlYMLKLp3ybPkqfI0_wAuSn43lVRSoco59WF6uj_719-9TbD746ff3CTZxy8sm6ZpjYQh8ZyabbJmfA5sdh16cWS73w4HzxHSBxFgDYt4qM9n3sKfbfto6Fp-d7fQGNcTnIAhnmCbzPkoPDF2LHCMsxHa8lI3lVGqjlX9ZPPjCKtuDHZMfoFgWGbsbOn1p23MGiwddj8_SXRTi2tOUHNWT1I9mhyR3qw1uDpfG7GmTxXAv_nEH04QPSQEAFLV0u5bb2A2K7eH-Lpw6UhEBDUIYMWBTP19HiAXQL7XMQZXsVZee-tZbNKh3wUIki5XDaS8ExVTHlX2ApFU9GBlp5Wm6N7rLtLPuAjdwDG45FsqzGFmCVPYu3ogUgrGsE3x0Lv3PGoIpbCDjyK8I83s4QSiRjykwbIrQgvMsVZEpzobxVm5xWmHC2V_q3u2eoDu4xNptZdOcGjVR63t2n8kv-Qg2XFJUnxLUhA4ekPfiInE1_o1WC8xglm-Xy_vWBSP18DsL5KTiQqhWOaQXGuRl19eukU1yWaBgVpSsE5FOAcaudpXig1vfOF9NlGMcHGe_RDOpHIWaQarCCZUb5ItsJrHIhYOAODhM3grrBYaHfE5k0gUI6B1SaGnA1JGrYLrW-AOqGRLV5sQ9CXO1rQiWJH60a5xqjRdi_wRBGgYSATpAPTSQjVLEQYFZ1k8hIZOddLiZgm85n4G1J9SwQiIGpC_zvznF34pofjc4UaFyynC7YkSWmoSftC_5ckKZs5joqQXbkLf-gctyP7fycoalEsz6d-QpX5B1p0GBTM3hS-ck5U1qEXRoG7J0kqykIsnfM8wBleytJIs5ZasskGltEFVyMqGv0OWVCFLK8lCX5F1aVCfZClj6aMkK29QP5L1nzaoHDCnmKrd6rAlf6YPyZLlNdoTNPwIxlxbMVbqEDxDf23Oadda-8nLPgrparN6gQ0lOa-Yd4Eqj2ZgivTJA9BpkofoAQ_FGuN7UShwZhP3unKrczp0LEME-iqKNyNsTN32e2ccfozmoYFU8c0iz-PJaNFJtn3fSBZhxDfOoXowXt_cUWcI9z46-GvdaS57icWvlWdVdR_16TkY646HDud3b8vB5f6dx7JvSnPf4NUm57mBddoNjEGyMqNmp2vswNNRy-OKhe6Qt9tyywwVehLZAu1LzR0YMLFtGk58FLi26aycVb3lcA3OdmzGJ8l5LzTr3wGHYXkJ"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Renovateur Aubaine Inc | 514-794-5711 | Laval",
+      "link": "https://www.lechodelaval.ca/commerces/architecture-concepteur-design/57768/renovateur-aubaine-inc",
+      "redirect_link": "https://www.google.ca/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.lechodelaval.ca/commerces/architecture-concepteur-design/57768/renovateur-aubaine-inc&ved=2ahUKEwiT1oL8nf6NAxVySvEDHSxBCJYQFnoECB8QAQ",
+      "displayed_link": "https://www.lechodelaval.ca › ren...",
+      "favicon": "https://serpapi.com/searches/685466eab2c6138502686324/images/6081f9a2476a5ce851ba8597437e46efeaa7c29f296f7e632b3e59aab593ce83.png",
+      "snippet": "Renovateur Aubaine Inc. Renovateur Aubaine Inc. Adresse postale. 8245, rue Fanny Laval (Québec) H7A 1A6. Pour nous joindre. Téléphone Tél.: 514-794-5711 ...",
+      "snippet_highlighted_words": [
+        "8245, rue Fanny Laval (Québec) H7A 1A6"
+      ],
+      "source": "L'Écho de Laval"
+    },
+    {
+      "position": 2,
+      "title": "Renovateur Aubaine Inc, 8245 Fanny Rue, Laval, QC ...",
+      "link": "https://www.mapquest.com/canada/quebec/renovateur-aubaine-inc-455411069",
+      "redirect_link": "https://www.google.ca/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mapquest.com/canada/quebec/renovateur-aubaine-inc-455411069&ved=2ahUKEwiT1oL8nf6NAxVySvEDHSxBCJYQFnoECBoQAQ",
+      "displayed_link": "https://www.mapquest.com › Canada › Quebec › Laval",
+      "favicon": "https://serpapi.com/searches/685466eab2c6138502686324/images/6081f9a2476a5ce851ba8597437e46ef729f4e2e642d14dfee54b9e7199befb0.png",
+      "snippet": "Renovateur Aubaine Inc is a home renovation company based in Laval, QC, specializing in a wide range of renovation services for residential properties.",
+      "snippet_highlighted_words": [
+        "Renovateur Aubaine Inc"
+      ],
+      "source": "MapQuest"
+    },
+    {
+      "position": 3,
+      "title": "Renovateur Aubaine Inc - 8245, rue Fanny, Laval, QC",
+      "link": "https://www.pagesjaunes.ca/bus/Quebec/Laval/Renovateur-Aubaine-Inc/6540913.html",
+      "redirect_link": "https://www.google.ca/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.pagesjaunes.ca/bus/Quebec/Laval/Renovateur-Aubaine-Inc/6540913.html&ved=2ahUKEwiT1oL8nf6NAxVySvEDHSxBCJYQFnoECBkQAQ",
+      "displayed_link": "https://www.pagesjaunes.ca › bus",
+      "favicon": "https://serpapi.com/searches/685466eab2c6138502686324/images/6081f9a2476a5ce851ba8597437e46ef92b7d34c9335449d845fa13da8ef9a25.png",
+      "snippet": "8245, rue Fanny, Laval QC H7A 1A6 Itinéraire ». Évaluez cette entreprise. Appeler · Itinéraire. Ajouter vos photos. Détails. Information. Évaluations.",
+      "snippet_highlighted_words": [
+        "8245, rue Fanny, Laval QC H7A 1A6"
+      ],
+      "source": "PagesJaunes.ca"
+    },
+    {
+      "position": 4,
+      "title": "RENOVATEUR AUBAINE INC. - 1164138902 - Quebec",
+      "link": "https://b2bhint.com/en/company/ca-qc/renovateur-aubaine-inc--1164138902",
+      "redirect_link": "https://www.google.ca/url?sa=t&source=web&rct=j&opi=89978449&url=https://b2bhint.com/en/company/ca-qc/renovateur-aubaine-inc--1164138902&ved=2ahUKEwiT1oL8nf6NAxVySvEDHSxBCJYQFnoECBYQAQ",
+      "displayed_link": "https://b2bhint.com › company › ca-qc › renovateur-au...",
+      "favicon": "https://serpapi.com/searches/685466eab2c6138502686324/images/6081f9a2476a5ce851ba8597437e46efc7acad53f58969e81898386b0f9571eb.png",
+      "snippet": "RÉNOVATEUR AUBAINE INC. Canadian company, Company number: 1164138902, Incorporation Date 19 дек. 2006 г.;, Address: 8245 rue Fanny, Laval (Québec), H7A1A6.",
+      "snippet_highlighted_words": [
+        "RÉNOVATEUR AUBAINE INC"
+      ],
+      "source": "B2BHint"
+    },
+    {
+      "position": 5,
+      "title": "Aubaines Construction: Accueil",
+      "link": "https://www.aubainesconstruction.ca/",
+      "redirect_link": "https://www.google.ca/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.aubainesconstruction.ca/&ved=2ahUKEwiT1oL8nf6NAxVySvEDHSxBCJYQFnoECBgQAQ",
+      "displayed_link": "https://www.aubainesconstruction.ca",
+      "favicon": "https://serpapi.com/searches/685466eab2c6138502686324/images/6081f9a2476a5ce851ba8597437e46ef1da05dd4eb03b984a0d4ce52294e27a0.png",
+      "snippet": "Aubaines Construction est une entreprise qui se spécialise dans la construction résidentielle neuve, la construction commerciale et la rénovation en tout genre ...",
+      "source": "Aubaines Construction"
+    },
+    {
+      "position": 6,
+      "title": "RÉNOVATEUR AUBAINE INC. - Entreprises Quebecoise",
+      "link": "http://www.quebecentreprises.com/r-novateur-aubaine-inc-vlwn/",
+      "redirect_link": "https://www.google.ca/url?sa=t&source=web&rct=j&opi=89978449&url=http://www.quebecentreprises.com/r-novateur-aubaine-inc-vlwn/&ved=2ahUKEwiT1oL8nf6NAxVySvEDHSxBCJYQFnoECCoQAQ",
+      "displayed_link": "http://www.quebecentreprises.com › ...",
+      "snippet": "RÉNOVATEUR AUBAINE INC. est un Compagnie en Quebec, Canada le December 13, 2006. Leur entreprise est enregistrée comme rénovation de bâtiments résidentiels.",
+      "snippet_highlighted_words": [
+        "RÉNOVATEUR AUBAINE INC"
+      ],
+      "source": "quebecentreprises.com"
+    },
+    {
+      "position": 7,
+      "title": "Aubaines construction inc 9263-8220 québec inc à Alma",
+      "link": "https://www.construction411.com/entrepreneur-residentiel/alma/aubaines-construction/",
+      "redirect_link": "https://www.google.ca/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.construction411.com/entrepreneur-residentiel/alma/aubaines-construction/&ved=2ahUKEwiT1oL8nf6NAxVySvEDHSxBCJYQFnoECDAQAQ",
+      "displayed_link": "https://www.construction411.com › ...",
+      "favicon": "https://serpapi.com/searches/685466eab2c6138502686324/images/6081f9a2476a5ce851ba8597437e46ef2a79cb1107f73cb4fd09f2cabcc047ba.png",
+      "snippet": "AUBAINES CONSTRUCTION INC 9263-8220 QUÉBEC INC · Jean-François Bouchard · 376, Arthur Villeneuve · (418) 662-4550 · Contacter cet entrepreneur · RBQ : 5653-0561-01.",
+      "snippet_highlighted_words": [
+        "AUBAINES",
+        "INC",
+        "INC"
+      ],
+      "source": "Construction411"
+    },
+    {
+      "position": 8,
+      "title": "PROFESSIONAL, SCIENTIFIC, AND TECHNICAL SERVICES",
+      "link": "https://www.dnb.com/business-directory/company-information.professional_scientific_and_technical_services.ca.quebec.laval.html?page=8",
+      "redirect_link": "https://www.google.ca/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.dnb.com/business-directory/company-information.professional_scientific_and_technical_services.ca.quebec.laval.html%3Fpage%3D8&ved=2ahUKEwiT1oL8nf6NAxVySvEDHSxBCJYQFnoECCkQAQ",
+      "displayed_link": "https://www.dnb.com › ... › CANADA › QUEBEC",
+      "favicon": "https://serpapi.com/searches/685466eab2c6138502686324/images/6081f9a2476a5ce851ba8597437e46ef9a621a40488b8ba729a13db3753309d8.png",
+      "snippet": "Renovateur Aubaine Inc. Country: Laval, Quebec Canada. Sales Revenue ($M):. $1.11M. Vertex Inc. Country: Laval, Quebec Canada. Sales Revenue ($M):. $1.11M.",
+      "snippet_highlighted_words": [
+        "Renovateur Aubaine Inc"
+      ],
+      "source": "Dun & Bradstreet"
+    },
+    {
+      "position": 9,
+      "title": "📢Nouvelle inscription!! AUBAINE!!Joli bungalow RÉNOVÉ ...",
+      "link": "https://www.facebook.com/JimmyArseneaultRemax/posts/nouvelle-inscriptionaubainejoli-bungalow-r%C3%A9nov%C3%A9-%C3%A0-neuf-3-c-c-d%C3%A9cor%C3%A9-au-go%C3%BBt-du-j/1052076693629653/",
+      "redirect_link": "https://www.google.ca/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/JimmyArseneaultRemax/posts/nouvelle-inscriptionaubainejoli-bungalow-r%25C3%25A9nov%25C3%25A9-%25C3%25A0-neuf-3-c-c-d%25C3%25A9cor%25C3%25A9-au-go%25C3%25BBt-du-j/1052076693629653/&ved=2ahUKEwiT1oL8nf6NAxVySvEDHSxBCJYQFnoECDMQAQ",
+      "displayed_link": "30+ reactions · 4 months ago",
+      "favicon": "https://serpapi.com/searches/685466eab2c6138502686324/images/6081f9a2476a5ce851ba8597437e46ef4224879fe6ed42d3a8a4fad28a9a17e5.png",
+      "snippet": "Nouvelle inscription!! AUBAINE!!Joli bungalow RÉNOVÉ À NEUF, 3 C-C, Décoré au goût du jour, Aucun tapis, Belle grande cuisine en PVC avec ...",
+      "snippet_highlighted_words": [
+        "AUBAINE"
+      ],
+      "source": "Facebook · Jimmy Arseneault Re/max Courtier immobilier Inc."
+    },
+    {
+      "position": 10,
+      "title": "Construction and renovation ads",
+      "link": "https://classified.aubaine.ca/find_construction-and-renovation_QUE-ENG-336.html",
+      "redirect_link": "https://www.google.ca/url?sa=t&source=web&rct=j&opi=89978449&url=https://classified.aubaine.ca/find_construction-and-renovation_QUE-ENG-336.html&ved=2ahUKEwiT1oL8nf6NAxVySvEDHSxBCJYQFnoECC0QAQ",
+      "displayed_link": "https://classified.aubaine.ca › find_c...",
+      "favicon": "https://serpapi.com/searches/685466eab2c6138502686324/images/6081f9a2476a5ce851ba8597437e46ef553e66c1c762aa68069c40d27bb796a4.png",
+      "snippet": "nous offrons nos services en tout ce qui est travaux rénovation intérieur et extérieur. spécialiste en toiture depuis plus de 20ans nous offrons les meilleurs ...",
+      "snippet_highlighted_words": [
+        "nous offrons nos services en tout ce qui est travaux rénovation intérieur et extérieur"
+      ],
+      "source": "Aubaine.ca"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Renovateur aubaine inc owner",
+      "link": "https://www.google.ca/search?sca_esv=07aeded15e020cec&hl=en&gl=ca&q=Renovateur+aubaine+inc+owner&sa=X&ved=2ahUKEwiT1oL8nf6NAxVySvEDHSxBCJYQ1QJ6BAgnEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.ca&hl=en&location=Quebec%2C+Canada&q=Renovateur+aubaine+inc+owner"
+    },
+    {
+      "block_position": 1,
+      "query": "Renovateur aubaine inc contact",
+      "link": "https://www.google.ca/search?sca_esv=07aeded15e020cec&hl=en&gl=ca&q=Renovateur+aubaine+inc+contact&sa=X&ved=2ahUKEwiT1oL8nf6NAxVySvEDHSxBCJYQ1QJ6BAgoEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.ca&hl=en&location=Quebec%2C+Canada&q=Renovateur+aubaine+inc+contact"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.ca/search?q=RENOVATEUR+AUBAINE+INC.&sca_esv=07aeded15e020cec&hl=en&gl=ca&ei=7GZUaJOwKPKUxc8PrIKhsAk&start=10&sa=N&sstk=Ac65TH523ogxaycio6N74MoiclAUs507ppNQPFsl-tr4mz35BY3oosWbJCObFYQH7BS3EOXgZEo_ajpzJ5FgGggDL_3CODiFPF4_pg&ved=2ahUKEwiT1oL8nf6NAxVySvEDHSxBCJYQ8NMDegQIBxAW",
+    "other_pages": {
+      "2": "https://www.google.ca/search?q=RENOVATEUR+AUBAINE+INC.&sca_esv=07aeded15e020cec&hl=en&gl=ca&ei=7GZUaJOwKPKUxc8PrIKhsAk&start=10&sa=N&sstk=Ac65TH523ogxaycio6N74MoiclAUs507ppNQPFsl-tr4mz35BY3oosWbJCObFYQH7BS3EOXgZEo_ajpzJ5FgGggDL_3CODiFPF4_pg&ved=2ahUKEwiT1oL8nf6NAxVySvEDHSxBCJYQ8tMDegQIBxAE",
+      "3": "https://www.google.ca/search?q=RENOVATEUR+AUBAINE+INC.&sca_esv=07aeded15e020cec&hl=en&gl=ca&ei=7GZUaJOwKPKUxc8PrIKhsAk&start=20&sa=N&sstk=Ac65TH523ogxaycio6N74MoiclAUs507ppNQPFsl-tr4mz35BY3oosWbJCObFYQH7BS3EOXgZEo_ajpzJ5FgGggDL_3CODiFPF4_pg&ved=2ahUKEwiT1oL8nf6NAxVySvEDHSxBCJYQ8tMDegQIBxAG",
+      "4": "https://www.google.ca/search?q=RENOVATEUR+AUBAINE+INC.&sca_esv=07aeded15e020cec&hl=en&gl=ca&ei=7GZUaJOwKPKUxc8PrIKhsAk&start=30&sa=N&sstk=Ac65TH523ogxaycio6N74MoiclAUs507ppNQPFsl-tr4mz35BY3oosWbJCObFYQH7BS3EOXgZEo_ajpzJ5FgGggDL_3CODiFPF4_pg&ved=2ahUKEwiT1oL8nf6NAxVySvEDHSxBCJYQ8tMDegQIBxAI",
+      "5": "https://www.google.ca/search?q=RENOVATEUR+AUBAINE+INC.&sca_esv=07aeded15e020cec&hl=en&gl=ca&ei=7GZUaJOwKPKUxc8PrIKhsAk&start=40&sa=N&sstk=Ac65TH523ogxaycio6N74MoiclAUs507ppNQPFsl-tr4mz35BY3oosWbJCObFYQH7BS3EOXgZEo_ajpzJ5FgGggDL_3CODiFPF4_pg&ved=2ahUKEwiT1oL8nf6NAxVySvEDHSxBCJYQ8tMDegQIBxAK",
+      "6": "https://www.google.ca/search?q=RENOVATEUR+AUBAINE+INC.&sca_esv=07aeded15e020cec&hl=en&gl=ca&ei=7GZUaJOwKPKUxc8PrIKhsAk&start=50&sa=N&sstk=Ac65TH523ogxaycio6N74MoiclAUs507ppNQPFsl-tr4mz35BY3oosWbJCObFYQH7BS3EOXgZEo_ajpzJ5FgGggDL_3CODiFPF4_pg&ved=2ahUKEwiT1oL8nf6NAxVySvEDHSxBCJYQ8tMDegQIBxAM",
+      "7": "https://www.google.ca/search?q=RENOVATEUR+AUBAINE+INC.&sca_esv=07aeded15e020cec&hl=en&gl=ca&ei=7GZUaJOwKPKUxc8PrIKhsAk&start=60&sa=N&sstk=Ac65TH523ogxaycio6N74MoiclAUs507ppNQPFsl-tr4mz35BY3oosWbJCObFYQH7BS3EOXgZEo_ajpzJ5FgGggDL_3CODiFPF4_pg&ved=2ahUKEwiT1oL8nf6NAxVySvEDHSxBCJYQ8tMDegQIBxAO",
+      "8": "https://www.google.ca/search?q=RENOVATEUR+AUBAINE+INC.&sca_esv=07aeded15e020cec&hl=en&gl=ca&ei=7GZUaJOwKPKUxc8PrIKhsAk&start=70&sa=N&sstk=Ac65TH523ogxaycio6N74MoiclAUs507ppNQPFsl-tr4mz35BY3oosWbJCObFYQH7BS3EOXgZEo_ajpzJ5FgGggDL_3CODiFPF4_pg&ved=2ahUKEwiT1oL8nf6NAxVySvEDHSxBCJYQ8tMDegQIBxAQ",
+      "9": "https://www.google.ca/search?q=RENOVATEUR+AUBAINE+INC.&sca_esv=07aeded15e020cec&hl=en&gl=ca&ei=7GZUaJOwKPKUxc8PrIKhsAk&start=80&sa=N&sstk=Ac65TH523ogxaycio6N74MoiclAUs507ppNQPFsl-tr4mz35BY3oosWbJCObFYQH7BS3EOXgZEo_ajpzJ5FgGggDL_3CODiFPF4_pg&ved=2ahUKEwiT1oL8nf6NAxVySvEDHSxBCJYQ8tMDegQIBxAS",
+      "10": "https://www.google.ca/search?q=RENOVATEUR+AUBAINE+INC.&sca_esv=07aeded15e020cec&hl=en&gl=ca&ei=7GZUaJOwKPKUxc8PrIKhsAk&start=90&sa=N&sstk=Ac65TH523ogxaycio6N74MoiclAUs507ppNQPFsl-tr4mz35BY3oosWbJCObFYQH7BS3EOXgZEo_ajpzJ5FgGggDL_3CODiFPF4_pg&ved=2ahUKEwiT1oL8nf6NAxVySvEDHSxBCJYQ8tMDegQIBxAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.ca&hl=en&location=Quebec%2C+Canada&q=RENOVATEUR+AUBAINE+INC.&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.ca&hl=en&location=Quebec%2C+Canada&q=RENOVATEUR+AUBAINE+INC.&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.ca&hl=en&location=Quebec%2C+Canada&q=RENOVATEUR+AUBAINE+INC.&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.ca&hl=en&location=Quebec%2C+Canada&q=RENOVATEUR+AUBAINE+INC.&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.ca&hl=en&location=Quebec%2C+Canada&q=RENOVATEUR+AUBAINE+INC.&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.ca&hl=en&location=Quebec%2C+Canada&q=RENOVATEUR+AUBAINE+INC.&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.ca&hl=en&location=Quebec%2C+Canada&q=RENOVATEUR+AUBAINE+INC.&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.ca&hl=en&location=Quebec%2C+Canada&q=RENOVATEUR+AUBAINE+INC.&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.ca&hl=en&location=Quebec%2C+Canada&q=RENOVATEUR+AUBAINE+INC.&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.ca&hl=en&location=Quebec%2C+Canada&q=RENOVATEUR+AUBAINE+INC.&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.ca&hl=en&location=Quebec%2C+Canada&q=RENOVATEUR+AUBAINE+INC.&start=90"
+    }
+  }
+}

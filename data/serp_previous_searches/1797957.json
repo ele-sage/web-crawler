@@ -1,0 +1,288 @@
+{
+  "search_metadata": {
+    "id": "6852fd1bc2bb99080fb41001",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/13ad3832b387ee9a/6852fd1bc2bb99080fb41001.json",
+    "created_at": "2025-06-18 17:53:31 UTC",
+    "processed_at": "2025-06-18 17:53:31 UTC",
+    "google_url": "https://www.google.ca/search?q=Bar+La+Diversit%C3%A9&oq=Bar+La+Diversit%C3%A9&uule=w+CAIQICINUXVlYmVjLENhbmFkYQ&hl=en&gl=ca&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/13ad3832b387ee9a/6852fd1bc2bb99080fb41001.html",
+    "total_time_taken": 2.88
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Bar La Diversité",
+    "location_requested": "Quebec, Canada",
+    "location_used": "Quebec,Canada",
+    "google_domain": "google.ca",
+    "hl": "en",
+    "gl": "ca",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Bar La Diversité",
+    "total_results": 14300000,
+    "time_taken_displayed": 0.32,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "knowledge_graph": {
+    "title": "La diversité Bar LGBTQ+",
+    "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipMgPLuh20-j9IqXpdzOALBqETitaF0Id3lHyIfR=w120-h160-k-no",
+    "type": "Gay bar",
+    "entity_type": "local_nav",
+    "kgmid": "/g/11tcrxr9vd",
+    "knowledge_graph_search_link": "https://www.google.ca/search?kgmid=/g/11tcrxr9vd&hl=en-CA&q=La+diversit%C3%A9+Bar+LGBTQ%2B",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.ca&hl=en-CA&kgmid=%2Fg%2F11tcrxr9vd&location=Quebec%2C+Canada&q=La+diversit%C3%A9+Bar+LGBTQ%2B",
+    "place_id": "ChIJDf-8zLDHx0wRG9mp0MaZTdk",
+    "website": "https://www.facebook.com/profile.php?id=100083291284850",
+    "reviews": "https://www.google.ca/search?sca_esv=dcff718841928c00&gl=ca&hl=en&si=AMgyJEtREmoPL4P1I5IDCfuA8gybfVI2d5Uj7QMwYCZHKDZ-E4B08C2DHjEIavmPyZlV4n6dDPWYaaSfdiUKeBQIv0TaTxiV2SV1Vq7_qmIJ730w5Gldw80UOCyfAbFVFiOcs2Tm1xmV9GsJCgoKyppiaJ84F8NgFA%3D%3D&q=La+diversit%C3%A9+Bar+LGBTQ%2B+Reviews&sa=X&ved=2ahUKEwiQ1ub1xPuNAxWHIhAIHZrnIrAQ0bkNegQIIRAD",
+    "local_map": {
+      "image": "https://serpapi.com/searches/6852fd1bc2bb99080fb41001/images/af19ec115804fe7c374f15f3101e04802d427f343613f027dac27afa090bb8d4.webp",
+      "link": "https://www.google.ca/maps/place/La+diversit%C3%A9+Bar+LGBTQ%2B/data=!4m2!3m1!1s0x0:0xd94d99c6d0a9d91b?sa=X&ved=2ahUKEwiQ1ub1xPuNAxWHIhAIHZrnIrAQ_BJ6BAgWEAA&hl=en&gl=ca"
+    },
+    "rating": 3.9,
+    "review_count": 27,
+    "address": "110 Rue des Forges, Trois-Rivières, QC G9A 2G8",
+    "address_links": [
+      {
+        "text": "Address",
+        "link": "https://www.google.ca/search?sca_esv=dcff718841928c00&gl=ca&hl=en&q=la+diversit%C3%A9+bar+lgbtq%2B+address&ludocid=15658340558620449051&sa=X&ved=2ahUKEwiQ1ub1xPuNAxWHIhAIHZrnIrAQ6BN6BAgcEAI"
+      }
+    ],
+    "phone": "(819) 448-3094",
+    "menu": "facebook.com",
+    "menu_links": [
+      {
+        "text": "facebook.com",
+        "link": "https://www.facebook.com/profile.php?id=100083291284850"
+      }
+    ],
+    "unclaimed_listing": true,
+    "permanently_closed": true,
+    "profiles": [
+      {
+        "name": "Instagram",
+        "link": "https://www.instagram.com/la_diversite_bar_lgbtq/",
+        "image": "https://serpapi.com/searches/6852fd1bc2bb99080fb41001/images/af19ec115804fe7c374f15f3101e0480c1247a314402585fe5cb5cd2d111a2ff55d5506e1a78bea8.png"
+      }
+    ],
+    "people_also_search_for": [
+      {
+        "name": "Aigle Noir",
+        "link": "https://www.google.ca/search?sca_esv=dcff718841928c00&gl=ca&hl=en&si=AMgyJEt4gI5NMInIh8VmHjRSOVu8AO9g8YCb2bwac_lcM9uulhFzsl1AyNT75DA-1Cj8xyh2kcJyxR3dVBc7CFtAS98bsT1QBFYvtbiD42a9ErJfKVjguWQgKOxdxpHcWpCcn-1DtTxUMFQxFPLFEkHI5DQOFJuoN1i8zL28B1G9H8j-AhYWA4Edn-Wrk7FnebzbDvDiTxUaweCbfJ4csDXkSeZI97_V85uJMv3rTMB9eRNenKXpdxH75snP3mxDGO7SNXevuYgM1yE3yE_TP0SI3-_icKmm4H3iz_QDJG6PI6TGbPhO5WEf5rRnD1DnkezSF0A1c8AH&q=Black+Eagle+(Montreal)&sa=X&ved=2ahUKEwiQ1ub1xPuNAxWHIhAIHZrnIrAQs9oBKAB6BAgYEAU",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.ca&hl=en&location=Quebec%2C+Canada&q=Black+Eagle+%28Montreal%29&si=AMgyJEt4gI5NMInIh8VmHjRSOVu8AO9g8YCb2bwac_lcM9uulhFzsl1AyNT75DA-1Cj8xyh2kcJyxR3dVBc7CFtAS98bsT1QBFYvtbiD42a9ErJfKVjguWQgKOxdxpHcWpCcn-1DtTxUMFQxFPLFEkHI5DQOFJuoN1i8zL28B1G9H8j-AhYWA4Edn-Wrk7FnebzbDvDiTxUaweCbfJ4csDXkSeZI97_V85uJMv3rTMB9eRNenKXpdxH75snP3mxDGO7SNXevuYgM1yE3yE_TP0SI3-_icKmm4H3iz_QDJG6PI6TGbPhO5WEf5rRnD1DnkezSF0A1c8AH",
+        "image": "https://serpapi.com/searches/6852fd1bc2bb99080fb41001/images/af19ec115804fe7c374f15f3101e0480e74278df1afedba166b91656b5a0978d12272744a71ade44f16b99decfc9985f.jpeg"
+      },
+      {
+        "name": "Rocky",
+        "link": "https://www.google.ca/search?sca_esv=dcff718841928c00&gl=ca&hl=en&si=AMgyJEt4gI5NMInIh8VmHjRSOVu8AO9g8YCb2bwac_lcM9uulmpH6yQ31zs-FKZaiZVo89UEB6ulg1Ip95xdY6uIPTs3e_BGIefSMWH6TuzMILVqjTjMBRr6YI4Y3wgCDJYkfYyhxLYR6HgwlGMj6JST8LlBxFy3Eez2KKgCWOT5eFUNmJCtE_KZu9d8td-HL6Z1GNY_OM03nZzUSR5bJO5Iw_g7OyOjMYvX_KxApbFGGHfe9Sdr2iBNJcvT_-8q2IblSRWE4o51fCN6__Z3HtKCfrK4DdyM7phRQHo_6ssLbc5e8YzHvomELmLNJIKRjFqiDQ90wwfy&q=Rocky+Montreal&sa=X&ved=2ahUKEwiQ1ub1xPuNAxWHIhAIHZrnIrAQs9oBKAB6BAgYEAk",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.ca&hl=en&location=Quebec%2C+Canada&q=Rocky+Montreal&si=AMgyJEt4gI5NMInIh8VmHjRSOVu8AO9g8YCb2bwac_lcM9uulmpH6yQ31zs-FKZaiZVo89UEB6ulg1Ip95xdY6uIPTs3e_BGIefSMWH6TuzMILVqjTjMBRr6YI4Y3wgCDJYkfYyhxLYR6HgwlGMj6JST8LlBxFy3Eez2KKgCWOT5eFUNmJCtE_KZu9d8td-HL6Z1GNY_OM03nZzUSR5bJO5Iw_g7OyOjMYvX_KxApbFGGHfe9Sdr2iBNJcvT_-8q2IblSRWE4o51fCN6__Z3HtKCfrK4DdyM7phRQHo_6ssLbc5e8YzHvomELmLNJIKRjFqiDQ90wwfy",
+        "image": "https://serpapi.com/searches/6852fd1bc2bb99080fb41001/images/af19ec115804fe7c374f15f3101e0480e74278df1afedba166b91656b5a0978d35752ef9eefde04519b78ceb6a61acdf.jpeg"
+      },
+      {
+        "name": "Stereo",
+        "link": "https://www.google.ca/search?sca_esv=dcff718841928c00&gl=ca&hl=en&si=AMgyJEveiRpRWbYSNPkEPxCUbItHSvun4xkRgDDPLmrOjDx35BnDqBJjyIbhuJci9nNiz8GYkVjPLmH8apybaW3j4Hi-bZ7qYyDzmDN0z0OB812iObu1Ri4gPPOTqXmxmy8eGAuCqB8c4hZpGX1ldZ6ndnO7vLYXASnk8afvvJUDsDdUuBl3dIPf5jq2hfgpFPXm8MYJT4DeUmx-wII6i-D0I4YpCNIBs2kvK42kCF7uBr1wl3YB0P4TKsiwQlQTOI7IXFImuWH6qPPWKv-GZVir6llxV-ezUTVkciZMev7eiNlNwFA1JB1nsHxAeHt5U09WahQNtnNg&q=Stereo+nightclub&sa=X&ved=2ahUKEwiQ1ub1xPuNAxWHIhAIHZrnIrAQs9oBKAB6BAgYEA0",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.ca&hl=en&location=Quebec%2C+Canada&q=Stereo+nightclub&si=AMgyJEveiRpRWbYSNPkEPxCUbItHSvun4xkRgDDPLmrOjDx35BnDqBJjyIbhuJci9nNiz8GYkVjPLmH8apybaW3j4Hi-bZ7qYyDzmDN0z0OB812iObu1Ri4gPPOTqXmxmy8eGAuCqB8c4hZpGX1ldZ6ndnO7vLYXASnk8afvvJUDsDdUuBl3dIPf5jq2hfgpFPXm8MYJT4DeUmx-wII6i-D0I4YpCNIBs2kvK42kCF7uBr1wl3YB0P4TKsiwQlQTOI7IXFImuWH6qPPWKv-GZVir6llxV-ezUTVkciZMev7eiNlNwFA1JB1nsHxAeHt5U09WahQNtnNg",
+        "image": "https://serpapi.com/searches/6852fd1bc2bb99080fb41001/images/af19ec115804fe7c374f15f3101e0480e74278df1afedba166b91656b5a0978d8b4cdab000b6fc52a4a3ab27599477ad.jpeg"
+      },
+      {
+        "name": "Saloon Bistro Bar",
+        "link": "https://www.google.ca/search?sca_esv=dcff718841928c00&gl=ca&hl=en&si=AMgyJEt4gI5NMInIh8VmHjRSOVu8AO9g8YCb2bwac_lcM9uulmvz-dOjy2Vzs6pkBU_q_HDHFCe41X5wZsDh84jDGFSDvnLKW4TG-_bkUlOkm_3lZFZXKTLIiX0PsfeV1YRNY60nZgPTwZA3C05dE3XgLl263Ix7zEbSn_FWD95OB24HZNAkBdh-wE4TqZwHH2mhJmwy6iJYpbi1VcORAFuYk3IxaD-dVr1PRcdNBfbpYyh2qTrhc6Va-E9MnmukXMN40miGOeXxABspeNIjA7n7OSP20J4b8yuYAD90CYcih_chZA4EXFNdoE2OWqqaKHoRBVXkAnKb&q=Saloon+Bistro+Bar&sa=X&ved=2ahUKEwiQ1ub1xPuNAxWHIhAIHZrnIrAQs9oBKAB6BAgYEBE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.ca&hl=en&location=Quebec%2C+Canada&q=Saloon+Bistro+Bar&si=AMgyJEt4gI5NMInIh8VmHjRSOVu8AO9g8YCb2bwac_lcM9uulmvz-dOjy2Vzs6pkBU_q_HDHFCe41X5wZsDh84jDGFSDvnLKW4TG-_bkUlOkm_3lZFZXKTLIiX0PsfeV1YRNY60nZgPTwZA3C05dE3XgLl263Ix7zEbSn_FWD95OB24HZNAkBdh-wE4TqZwHH2mhJmwy6iJYpbi1VcORAFuYk3IxaD-dVr1PRcdNBfbpYyh2qTrhc6Va-E9MnmukXMN40miGOeXxABspeNIjA7n7OSP20J4b8yuYAD90CYcih_chZA4EXFNdoE2OWqqaKHoRBVXkAnKb",
+        "image": "https://serpapi.com/searches/6852fd1bc2bb99080fb41001/images/af19ec115804fe7c374f15f3101e0480e74278df1afedba166b91656b5a0978d681af2ce9952ead100cd292c930c69ec.png"
+      }
+    ],
+    "people_also_search_for_link": "https://www.google.ca/search?sca_esv=dcff718841928c00&gl=ca&hl=en&q=La+diversit%C3%A9+Bar+LGBTQ%2B&stick=H4sIAAAAAAAAAONgFuLVT9c3NCxJLqoosixLUULlagkGZ6aklidWFvulVpQEl6QWFP9iFAtIzS_ISVVIzCnOVyhOTSxKzlBIyy9axCrhk6iQklmWWlScWXJ4pYJTYpGCj7tTSKD2DlbGW2ySDLsXdfycVff82JH8V7etUlvydnrb5kxZ1XoOALf6SlqGAAAA&sa=X&ved=2ahUKEwiQ1ub1xPuNAxWHIhAIHZrnIrAQzO0BKAR6BAgYEBM",
+    "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLVT9c3NCxJLqoosixLUULlagkGZ6aklidWFvulVpQEl6QWFP9iFAtIzS_ISVVIzCnOVyhOTSxKzlBIyy9axCrhk6iQklmWWlScWXJ4pYJTYpGCj7tTSKD2DlbGW2ySDLsXdfycVff82JH8V7etUlvydnrb5kxZ1XoOALf6SlqGAAAA"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "La Diversité Bar Lgbtq+",
+      "link": "https://www.facebook.com/p/La-Diversit%C3%A9-Bar-Lgbtq-100083291284850/",
+      "redirect_link": "https://www.google.ca/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/p/La-Diversit%25C3%25A9-Bar-Lgbtq-100083291284850/&ved=2ahUKEwiQ1ub1xPuNAxWHIhAIHZrnIrAQFnoECDoQAQ",
+      "displayed_link": "1.9K+ followers",
+      "thumbnail": "https://serpapi.com/searches/6852fd1bc2bb99080fb41001/images/f6cbb787a3af2fd1c16e7a32ad737540f7e0f6857ecf769de10d2b641de2aa59.jpeg",
+      "favicon": "https://serpapi.com/searches/6852fd1bc2bb99080fb41001/images/f6cbb787a3af2fd1c16e7a32ad737540c159878ed6d9ca89e2c4f60d0ac2ad41.webp",
+      "snippet": "Ce soir samedi dernier show de Drag Queen et gros spécial sur la bière 4.50$ la bouteille et 15$ le pichet venez vous amuser de 19h30 à 3h00 am.",
+      "source": "Facebook · La Diversité Bar Lgbtq+"
+    },
+    {
+      "position": 2,
+      "title": "Fermeture du seul bar LGBTQ+ de Trois-Rivières",
+      "link": "https://ici.radio-canada.ca/nouvelle/2089161/fermture-bar-lgbtq-trois-rivieres",
+      "redirect_link": "https://www.google.ca/url?sa=t&source=web&rct=j&opi=89978449&url=https://ici.radio-canada.ca/nouvelle/2089161/fermture-bar-lgbtq-trois-rivieres&ved=2ahUKEwiQ1ub1xPuNAxWHIhAIHZrnIrAQFnoECD8QAQ",
+      "displayed_link": "https://ici.radio-canada.ca › nouvelle",
+      "thumbnail": "https://serpapi.com/searches/6852fd1bc2bb99080fb41001/images/f6cbb787a3af2fd1c16e7a32ad737540bbe3b9b4e1d37eca3adb1790547277ad.jpeg",
+      "favicon": "https://serpapi.com/searches/6852fd1bc2bb99080fb41001/images/f6cbb787a3af2fd1c16e7a32ad737540274a7efcd18bfcec1d788cac018ba3cd.webp",
+      "date": "Jul 18, 2024",
+      "snippet": "Le bar La Diversité, le seul établissement du genre pour la communauté LGBTQ+ à Trois-Rivières, a annoncé qu'il fermera ses portes ...",
+      "snippet_highlighted_words": [
+        "bar La Diversité"
+      ],
+      "source": "Radio-Canada"
+    },
+    {
+      "position": 3,
+      "title": "Fermeture d'un bar LGBTQ+ à Trois-Rivières, signe d'un ...",
+      "link": "https://ici.radio-canada.ca/nouvelle/2090191/bar-diversite-trois-rivieres-habitudes",
+      "redirect_link": "https://www.google.ca/url?sa=t&source=web&rct=j&opi=89978449&url=https://ici.radio-canada.ca/nouvelle/2090191/bar-diversite-trois-rivieres-habitudes&ved=2ahUKEwiQ1ub1xPuNAxWHIhAIHZrnIrAQFnoECDYQAQ",
+      "displayed_link": "https://ici.radio-canada.ca › nouvelle",
+      "thumbnail": "https://serpapi.com/searches/6852fd1bc2bb99080fb41001/images/f6cbb787a3af2fd1c16e7a32ad737540dad7a1d679137ee0b6dd241019596be1.jpeg",
+      "favicon": "https://serpapi.com/searches/6852fd1bc2bb99080fb41001/images/f6cbb787a3af2fd1c16e7a32ad737540d4810bd207a83f8dc52426f0e26534b3.webp",
+      "date": "Jul 22, 2024",
+      "snippet": "Le bar LGBTQ+ La Diversité a officiellement fermé ses portes le 21 juillet 2024, à Trois-Rivières. Photo : Radio-Canada / Marilyn Marceau.",
+      "snippet_highlighted_words": [
+        "Le bar LGBTQ+ La Diversité a officiellement fermé ses portes le 21 juillet 2024"
+      ],
+      "source": "Radio-Canada"
+    },
+    {
+      "position": 4,
+      "title": "Fermeture du bar La Diversité: une perte pour ...",
+      "link": "https://www.lenouvelliste.ca/chroniques/martin-francoeur/2024/07/20/fermeture-du-bar-la-diversite-une-perte-pour-la-communaute-lgbtq-QFUW4AZEQZGCJK6VDJVND5HDJU/",
+      "redirect_link": "https://www.google.ca/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.lenouvelliste.ca/chroniques/martin-francoeur/2024/07/20/fermeture-du-bar-la-diversite-une-perte-pour-la-communaute-lgbtq-QFUW4AZEQZGCJK6VDJVND5HDJU/&ved=2ahUKEwiQ1ub1xPuNAxWHIhAIHZrnIrAQFnoECD4QAQ",
+      "displayed_link": "https://www.lenouvelliste.ca › fer...",
+      "thumbnail": "https://serpapi.com/searches/6852fd1bc2bb99080fb41001/images/f6cbb787a3af2fd1c16e7a32ad73754050474a8753f18a619747719711a0f951.jpeg",
+      "favicon": "https://serpapi.com/searches/6852fd1bc2bb99080fb41001/images/f6cbb787a3af2fd1c16e7a32ad737540054a7cd4e439ea20a7f1d38deb6946ca.png",
+      "date": "Jul 20, 2024",
+      "snippet": "David Côté aura eu l'audace d'ouvrir un bar LGBTQ+ à Trois-Rivières, au dernier étage de l'édifice Loiselle. L'aventure prend fin dimanche, ...",
+      "snippet_highlighted_words": [
+        "bar"
+      ],
+      "source": "lenouvelliste.ca"
+    },
+    {
+      "position": 5,
+      "title": "La Diversité Bar LGBTQ+ (@la_diversite_bar_lgbtq)",
+      "link": "https://www.instagram.com/la_diversite_bar_lgbtq/",
+      "redirect_link": "https://www.google.ca/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/la_diversite_bar_lgbtq/&ved=2ahUKEwiQ1ub1xPuNAxWHIhAIHZrnIrAQFnoECDsQAQ",
+      "displayed_link": "320+ followers",
+      "thumbnail": "https://serpapi.com/searches/6852fd1bc2bb99080fb41001/images/f6cbb787a3af2fd1c16e7a32ad7375409269e75d520037321d5ae4a40f3bdd03.jpeg",
+      "favicon": "https://serpapi.com/searches/6852fd1bc2bb99080fb41001/images/f6cbb787a3af2fd1c16e7a32ad73754055908884ad73e4682f3f290be3be6818.webp",
+      "snippet": "Lieu de festivités, lieu de souvenir. 110 Rue des Forges, Trois-Rivières, Qc · DRAG STAR : Présenté par NU C'est ce Vendredi 22 Septembre que ça commence.",
+      "snippet_highlighted_words": [
+        "110 Rue des Forges, Trois-Rivières, Qc"
+      ],
+      "source": "Instagram · la_diversite_bar_lgbtq"
+    },
+    {
+      "position": 6,
+      "title": "Fermeture du seul bar LGBTQ+ de Trois-Rivières",
+      "link": "https://www.fugues.com/2024/07/20/fermeture-du-seul-bar-lgbtq-de-trois-rivieres/",
+      "redirect_link": "https://www.google.ca/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.fugues.com/2024/07/20/fermeture-du-seul-bar-lgbtq-de-trois-rivieres/&ved=2ahUKEwiQ1ub1xPuNAxWHIhAIHZrnIrAQFnoECDUQAQ",
+      "displayed_link": "https://www.fugues.com › fermetu...",
+      "favicon": "https://serpapi.com/searches/6852fd1bc2bb99080fb41001/images/f6cbb787a3af2fd1c16e7a32ad73754049c182765ac5c3b22445c2ed1f538756.png",
+      "date": "Jul 21, 2024",
+      "snippet": "Seul établissement du genre pour la communauté LGBTQ+, le bar la Diversité fermera ses portes définitivement dimanche. PUBLICITÉ. « Cette ...",
+      "snippet_highlighted_words": [
+        "le bar la Diversité fermera ses portes définitivement dimanche"
+      ],
+      "source": "Fugues"
+    },
+    {
+      "position": 7,
+      "title": "Multiples réactions à la fermeture du bar La Diversité",
+      "link": "https://ici.radio-canada.ca/info/videos/1-10133834/multiples-reactions-a-fermeture-bar-diversite?liste=28-34803",
+      "displayed_link": "https://ici.radio-canada.ca · Jul 21, 2024",
+      "thumbnail": "https://serpapi.com/searches/6852fd1bc2bb99080fb41001/images/f6cbb787a3af2fd1c16e7a32ad7375404e25a1c5dc0bc770d2e54964e4680b96.jpeg",
+      "favicon": "https://serpapi.com/searches/6852fd1bc2bb99080fb41001/images/f6cbb787a3af2fd1c16e7a32ad737540851be28ba5723ae5333a1b38e76673ad.png",
+      "snippet": "La Diversité, le seul bar destiné à la communauté LGBTQ+ à Trois-Rivières, a fermé ses portes le 21 juillet 2024. La situation suscite de nombreuses ...",
+      "duration": "1:58",
+      "source": "Radio-Canada"
+    },
+    {
+      "position": 8,
+      "title": "Le bar la Diversité ferme ses portes",
+      "link": "https://www.lechodetroisrivieres.ca/actualites/affaires/616998/le-bar-la-diversite-ferme-ses-portes",
+      "redirect_link": "https://www.google.ca/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.lechodetroisrivieres.ca/actualites/affaires/616998/le-bar-la-diversite-ferme-ses-portes&ved=2ahUKEwiQ1ub1xPuNAxWHIhAIHZrnIrAQFnoECGAQAQ",
+      "displayed_link": "https://www.lechodetroisrivieres.ca › ...",
+      "favicon": "https://serpapi.com/searches/6852fd1bc2bb99080fb41001/images/f6cbb787a3af2fd1c16e7a32ad737540ff3909d7badc25746233c74ce8e5f0bc.png",
+      "snippet": "Hier, le bar dédié à la communauté LGBTQ+ La Diversité, a annoncé sur sa page Facebook sa fermeture à la fin de la semaine. Mentionnons qu'il s'agit de ...",
+      "snippet_highlighted_words": [
+        "bar",
+        "Diversité"
+      ],
+      "source": "L'Écho de Trois-Rivières"
+    },
+    {
+      "position": 9,
+      "title": "VIDÉO | Découvrez le tout premier bar LGBTQ+ de Trois ...",
+      "link": "https://www.noovo.info/video/decouvrez-le-tout-premier-bar-lgbtq-de-trois-rivieres.html",
+      "displayed_link": "https://www.noovo.info · Aug 5, 2022",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCI2HZNf2C9gsHyUhE-d8SN1m76kh_gmDR6r2COrmySzGf&s",
+      "favicon": "https://serpapi.com/searches/6852fd1bc2bb99080fb41001/images/f6cbb787a3af2fd1c16e7a32ad73754012df67e530beb076330a8d0204db5c83.png",
+      "snippet": "La Diversité Bar LGBTQ+ ouvrira ses portes vendredi prochain au centre-ville de Trois-Rivières au coin des rues Notre-Dame et des Forges.",
+      "duration": "1:58",
+      "source": "Noovo Info"
+    },
+    {
+      "position": 10,
+      "title": "Le bar LGBTQ+ la Diversité fermera ses portes cette fin de ...",
+      "link": "https://www.fm1069.ca/audio/637519/le-bar-lgbtq-la-diversite-fermera-ses-portes-cette-fin-de-semaine",
+      "redirect_link": "https://www.google.ca/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.fm1069.ca/audio/637519/le-bar-lgbtq-la-diversite-fermera-ses-portes-cette-fin-de-semaine&ved=2ahUKEwiQ1ub1xPuNAxWHIhAIHZrnIrAQFnoECGMQAQ",
+      "displayed_link": "https://www.fm1069.ca › audio › l...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV1mkoBVUlf3ELEyJ1VSljwdV_jIgybBPmvBkedT5CUjQh9xGv__DT&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/6852fd1bc2bb99080fb41001/images/f6cbb787a3af2fd1c16e7a32ad737540e17f175081be3dc748a47bfa27173d69.webp",
+      "date": "Jul 19, 2024",
+      "snippet": "La Diversité fermera ses portes dimanche. Tous les clients sont appelés à venir célébrer une dernière fois durant la fin de semaine. Abonnez- ...",
+      "snippet_highlighted_words": [
+        "La Diversité fermera ses portes dimanche"
+      ],
+      "source": "106.9 Mauricie"
+    }
+  ],
+  "top_stories_link": "https://www.google.ca/search?sca_esv=dcff718841928c00&gl=ca&hl=en&q=La+diversit%C3%A9+Bar+LGBTQ%2B&stick=H4sIAAAAAAAAAONgFuLVT9c3NCxJLqoosixLUULlagkGZ6aklidWFvulVpQEl6QWFP9iFAtIzS_ISVVIzCnOVyhOTSxKzlBIyy9axCrhk6iQklmWWlScWXJ4pYJTYpGCj7tTSKD2DlbGW2ySDLsXdfycVff82JH8V7etUlvydnrb5kxZ1XoOALf6SlqGAAAA&sa=X&ved=2ahUKEwiQ1ub1xPuNAxWHIhAIHZrnIrAQzO0BKAR6BAgYEBM",
+  "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.ca&hl=en&location=Quebec%2C+Canada&q=La+diversit%C3%A9+Bar+LGBTQ%2B&stick=H4sIAAAAAAAAAONgFuLVT9c3NCxJLqoosixLUULlagkGZ6aklidWFvulVpQEl6QWFP9iFAtIzS_ISVVIzCnOVyhOTSxKzlBIyy9axCrhk6iQklmWWlScWXJ4pYJTYpGCj7tTSKD2DlbGW2ySDLsXdfycVff82JH8V7etUlvydnrb5kxZ1XoOALf6SlqGAAAA",
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Bar la diversité restaurant",
+      "link": "https://www.google.ca/search?sca_esv=dcff718841928c00&gl=ca&hl=en&q=Bar+la+diversit%C3%A9+restaurant&sa=X&ved=2ahUKEwiQ1ub1xPuNAxWHIhAIHZrnIrAQ1QJ6BAhdEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.ca&hl=en&location=Quebec%2C+Canada&q=Bar+la+diversit%C3%A9+restaurant"
+    },
+    {
+      "block_position": 1,
+      "query": "Bar la diversité photos",
+      "link": "https://www.google.ca/search?sca_esv=dcff718841928c00&gl=ca&hl=en&q=Bar+la+diversit%C3%A9+photos&sa=X&ved=2ahUKEwiQ1ub1xPuNAxWHIhAIHZrnIrAQ1QJ6BAhbEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.ca&hl=en&location=Quebec%2C+Canada&q=Bar+la+diversit%C3%A9+photos"
+    },
+    {
+      "block_position": 1,
+      "query": "Bar la diversité reviews",
+      "link": "https://www.google.ca/search?sca_esv=dcff718841928c00&gl=ca&hl=en&q=Bar+la+diversit%C3%A9+reviews&sa=X&ved=2ahUKEwiQ1ub1xPuNAxWHIhAIHZrnIrAQ1QJ6BAhcEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.ca&hl=en&location=Quebec%2C+Canada&q=Bar+la+diversit%C3%A9+reviews"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.ca/search?q=Bar+La+Diversit%C3%A9&sca_esv=dcff718841928c00&gl=ca&hl=en&ei=Hf1SaNDTF4fFwPAPms-LgQs&start=10&sa=N&sstk=Ac65TH6l97_JjRbvZatDZ5i1fyw2RUlglRYHh3Sd2YLvHK70Md2K5htts6ShtjhLjf3z_GGPElXrODQu43PQMIZvnNOiALvqByRrOw&ved=2ahUKEwiQ1ub1xPuNAxWHIhAIHZrnIrAQ8NMDegQICRAW",
+    "other_pages": {
+      "2": "https://www.google.ca/search?q=Bar+La+Diversit%C3%A9&sca_esv=dcff718841928c00&gl=ca&hl=en&ei=Hf1SaNDTF4fFwPAPms-LgQs&start=10&sa=N&sstk=Ac65TH6l97_JjRbvZatDZ5i1fyw2RUlglRYHh3Sd2YLvHK70Md2K5htts6ShtjhLjf3z_GGPElXrODQu43PQMIZvnNOiALvqByRrOw&ved=2ahUKEwiQ1ub1xPuNAxWHIhAIHZrnIrAQ8tMDegQICRAE",
+      "3": "https://www.google.ca/search?q=Bar+La+Diversit%C3%A9&sca_esv=dcff718841928c00&gl=ca&hl=en&ei=Hf1SaNDTF4fFwPAPms-LgQs&start=20&sa=N&sstk=Ac65TH6l97_JjRbvZatDZ5i1fyw2RUlglRYHh3Sd2YLvHK70Md2K5htts6ShtjhLjf3z_GGPElXrODQu43PQMIZvnNOiALvqByRrOw&ved=2ahUKEwiQ1ub1xPuNAxWHIhAIHZrnIrAQ8tMDegQICRAG",
+      "4": "https://www.google.ca/search?q=Bar+La+Diversit%C3%A9&sca_esv=dcff718841928c00&gl=ca&hl=en&ei=Hf1SaNDTF4fFwPAPms-LgQs&start=30&sa=N&sstk=Ac65TH6l97_JjRbvZatDZ5i1fyw2RUlglRYHh3Sd2YLvHK70Md2K5htts6ShtjhLjf3z_GGPElXrODQu43PQMIZvnNOiALvqByRrOw&ved=2ahUKEwiQ1ub1xPuNAxWHIhAIHZrnIrAQ8tMDegQICRAI",
+      "5": "https://www.google.ca/search?q=Bar+La+Diversit%C3%A9&sca_esv=dcff718841928c00&gl=ca&hl=en&ei=Hf1SaNDTF4fFwPAPms-LgQs&start=40&sa=N&sstk=Ac65TH6l97_JjRbvZatDZ5i1fyw2RUlglRYHh3Sd2YLvHK70Md2K5htts6ShtjhLjf3z_GGPElXrODQu43PQMIZvnNOiALvqByRrOw&ved=2ahUKEwiQ1ub1xPuNAxWHIhAIHZrnIrAQ8tMDegQICRAK",
+      "6": "https://www.google.ca/search?q=Bar+La+Diversit%C3%A9&sca_esv=dcff718841928c00&gl=ca&hl=en&ei=Hf1SaNDTF4fFwPAPms-LgQs&start=50&sa=N&sstk=Ac65TH6l97_JjRbvZatDZ5i1fyw2RUlglRYHh3Sd2YLvHK70Md2K5htts6ShtjhLjf3z_GGPElXrODQu43PQMIZvnNOiALvqByRrOw&ved=2ahUKEwiQ1ub1xPuNAxWHIhAIHZrnIrAQ8tMDegQICRAM",
+      "7": "https://www.google.ca/search?q=Bar+La+Diversit%C3%A9&sca_esv=dcff718841928c00&gl=ca&hl=en&ei=Hf1SaNDTF4fFwPAPms-LgQs&start=60&sa=N&sstk=Ac65TH6l97_JjRbvZatDZ5i1fyw2RUlglRYHh3Sd2YLvHK70Md2K5htts6ShtjhLjf3z_GGPElXrODQu43PQMIZvnNOiALvqByRrOw&ved=2ahUKEwiQ1ub1xPuNAxWHIhAIHZrnIrAQ8tMDegQICRAO",
+      "8": "https://www.google.ca/search?q=Bar+La+Diversit%C3%A9&sca_esv=dcff718841928c00&gl=ca&hl=en&ei=Hf1SaNDTF4fFwPAPms-LgQs&start=70&sa=N&sstk=Ac65TH6l97_JjRbvZatDZ5i1fyw2RUlglRYHh3Sd2YLvHK70Md2K5htts6ShtjhLjf3z_GGPElXrODQu43PQMIZvnNOiALvqByRrOw&ved=2ahUKEwiQ1ub1xPuNAxWHIhAIHZrnIrAQ8tMDegQICRAQ",
+      "9": "https://www.google.ca/search?q=Bar+La+Diversit%C3%A9&sca_esv=dcff718841928c00&gl=ca&hl=en&ei=Hf1SaNDTF4fFwPAPms-LgQs&start=80&sa=N&sstk=Ac65TH6l97_JjRbvZatDZ5i1fyw2RUlglRYHh3Sd2YLvHK70Md2K5htts6ShtjhLjf3z_GGPElXrODQu43PQMIZvnNOiALvqByRrOw&ved=2ahUKEwiQ1ub1xPuNAxWHIhAIHZrnIrAQ8tMDegQICRAS",
+      "10": "https://www.google.ca/search?q=Bar+La+Diversit%C3%A9&sca_esv=dcff718841928c00&gl=ca&hl=en&ei=Hf1SaNDTF4fFwPAPms-LgQs&start=90&sa=N&sstk=Ac65TH6l97_JjRbvZatDZ5i1fyw2RUlglRYHh3Sd2YLvHK70Md2K5htts6ShtjhLjf3z_GGPElXrODQu43PQMIZvnNOiALvqByRrOw&ved=2ahUKEwiQ1ub1xPuNAxWHIhAIHZrnIrAQ8tMDegQICRAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.ca&hl=en&location=Quebec%2C+Canada&q=Bar+La+Diversit%C3%A9&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.ca&hl=en&location=Quebec%2C+Canada&q=Bar+La+Diversit%C3%A9&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.ca&hl=en&location=Quebec%2C+Canada&q=Bar+La+Diversit%C3%A9&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.ca&hl=en&location=Quebec%2C+Canada&q=Bar+La+Diversit%C3%A9&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.ca&hl=en&location=Quebec%2C+Canada&q=Bar+La+Diversit%C3%A9&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.ca&hl=en&location=Quebec%2C+Canada&q=Bar+La+Diversit%C3%A9&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.ca&hl=en&location=Quebec%2C+Canada&q=Bar+La+Diversit%C3%A9&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.ca&hl=en&location=Quebec%2C+Canada&q=Bar+La+Diversit%C3%A9&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.ca&hl=en&location=Quebec%2C+Canada&q=Bar+La+Diversit%C3%A9&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.ca&hl=en&location=Quebec%2C+Canada&q=Bar+La+Diversit%C3%A9&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.ca&hl=en&location=Quebec%2C+Canada&q=Bar+La+Diversit%C3%A9&start=90"
+    }
+  }
+}

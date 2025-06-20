@@ -1,0 +1,545 @@
+{
+"search_metadata":
+{
+"id":
+"6853038f77e3d9df04bb77ae",
+"status":
+"Success",
+"json_endpoint":
+"https://serpapi.com/searches/6118f386ae5c3886/6853038f77e3d9df04bb77ae.json",
+"created_at":
+"2025-06-18 18:21:03 UTC",
+"processed_at":
+"2025-06-18 18:21:03 UTC",
+"google_url":
+"https://www.google.ca/search?q=ENTRETIEN+V+BECK+INC&oq=ENTRETIEN+V+BECK+INC&uule=w+CAIQICINUXVlYmVjLENhbmFkYQ&hl=en&gl=ca&sourceid=chrome&ie=UTF-8",
+"raw_html_file":
+"https://serpapi.com/searches/6118f386ae5c3886/6853038f77e3d9df04bb77ae.html",
+"total_time_taken":
+1.98
+},
+"search_parameters":
+{
+"engine":
+"google",
+"q":
+"ENTRETIEN V BECK INC",
+"location_requested":
+"Quebec, Canada",
+"location_used":
+"Quebec,Canada",
+"google_domain":
+"google.ca",
+"hl":
+"en",
+"gl":
+"ca",
+"device":
+"desktop"
+},
+"search_information":
+{
+"query_displayed":
+"ENTRETIEN V BECK INC",
+"total_results":
+74200,
+"time_taken_displayed":
+0.38,
+"organic_results_state":
+"Results for exact spelling"
+},
+"inline_images":
+[
+{
+"source":
+"https://www.facebook.com/Entretient.V.Beck/",
+"thumbnail":
+"https://serpapi.com/searches/6853038f77e3d9df04bb77ae/images/a4b6324e78fc8b1252975ac0512a420142d4bd005581d56f012ceac78a5d9673.png",
+"original":
+"https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100070835774541",
+"title":
+"Entretien V Beck - Post-construction",
+"source_name":
+"Facebook"
+},
+{
+"source":
+"https://www.facebook.com/Entretient.V.Beck/videos/entretien-m%C3%A9nager/640265800593872/",
+"thumbnail":
+"https://serpapi.com/searches/6853038f77e3d9df04bb77ae/images/a4b6324e78fc8b12fa547373e4599c77b146a9307eaee5bd5bf2ef27092095cb.jpeg",
+"original":
+"https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=640265800593872&get_thumbnail=1",
+"title":
+"Entretien ménager | Facebook",
+"source_name":
+"Facebook"
+},
+{
+"source":
+"https://www.facebook.com/Entretient.V.Beck/photos/d41d8cd9/1155811271642831/",
+"thumbnail":
+"https://serpapi.com/searches/6853038f77e3d9df04bb77ae/images/a4b6324e78fc8b12e000325c6de34731dce2a8f9e81194ad074e52a1fce8c4de.jpeg",
+"original":
+"https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1155811271642831",
+"title":
+"Entretien V Beck -... - Entretien V Beck - Post-construction",
+"source_name":
+"Facebook"
+},
+{
+"source":
+"https://m.facebook.com/Entretient.V.Beck/photos/grand-entretien-annuel-aux-chalets-sign%C3%A9-entretien-v/1155133745043917/",
+"thumbnail":
+"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4jkOM028EBhLkQVaoJOyxmMMvwgb4Ga-JgE2w0lP5j76taaeek2RdTFI&s",
+"original":
+"https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1155133745043917",
+"title":
+"Entretien V Beck - Post-construction - Grand Entretien ...",
+"source_name":
+"Facebook"
+},
+{
+"source":
+"https://www.facebook.com/Entretient.V.Beck/videos/1401642536963787/",
+"thumbnail":
+"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8WI2f47pIkkKK6CTiJaNevzkj_JxHoSvia5-0BMcFyuq6O_51z5ljVSM&s",
+"original":
+"https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1401642536963787&get_thumbnail=1",
+"title":
+"Entretien V Beck - Post-construction",
+"source_name":
+"Facebook"
+},
+{
+"source":
+"https://m.facebook.com/392317657992200/photos/1084809292076363/",
+"thumbnail":
+"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYo1r8dMjpQlTAIfiV8p1VXxcFDid3TXg_OmdNGw71aY6e6tWE6hG-nHs&s",
+"original":
+"https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1084809292076363",
+"title":
+"Entretien V Beck -... - Entretien V Beck - Post-construction",
+"source_name":
+"Facebook"
+},
+{
+"source":
+"https://www.facebook.com/Entretient.V.Beck/",
+"thumbnail":
+"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ60tuydZ2wXycKSwTGXbW-6TVsbP7sNs_t8HVaTsqx7FEKLq6jg2-jtFQ&s",
+"original":
+"https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1067340453823247",
+"title":
+"Entretien V Beck - Post-construction",
+"source_name":
+"Facebook"
+},
+{
+"source":
+"https://www.facebook.com/Entretient.V.Beck/",
+"thumbnail":
+"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBJ8ZuS4P5VrWP5mSb8L4344oGZvpNRUFj4kxl58Xxa_bPQJhTWlq8YZc&s",
+"original":
+"https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1153938488496776",
+"title":
+"Entretien V Beck - Post-construction",
+"source_name":
+"Facebook"
+},
+{
+"source":
+"https://www.facebook.com/Entretient.V.Beck/",
+"thumbnail":
+"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKq8FF8c5Vj8PKxaf5kNC6z5UF-49aai4NVGNfKOXr7w98WqyqCYO8aZo&s",
+"original":
+"https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1020639661826660",
+"title":
+"Entretien V Beck - Post-construction",
+"source_name":
+"Facebook"
+}
+],
+"inline_videos":
+[
+{
+"position":
+1,
+"title":
+"Entretien V Beck - Post-construction",
+"link":
+"https://www.facebook.com/Entretient.V.Beck/videos/1401642536963787/",
+"thumbnail":
+"https://serpapi.com/searches/6853038f77e3d9df04bb77ae/images/a83da7f0efd7a805429b421fe34081a8f207025933ebcc560f727ef5664604c0.jpeg",
+"channel":
+"Entretien V Beck - Post-construction",
+"duration":
+"1:00",
+"platform":
+"Facebook"
+},
+{
+"position":
+2,
+"title":
+"Entretien ménager | L'équipe Entretien V s'agrandit☀️ ...",
+"link":
+"https://www.facebook.com/Entretient.V.Beck/videos/entretien-m%C3%A9nager/640265800593872/",
+"thumbnail":
+"https://serpapi.com/searches/6853038f77e3d9df04bb77ae/images/a83da7f0efd7a8056da6bbc59446b06eddf83d685060723be23386d3a868b1a1.jpeg",
+"channel":
+"Entretien V Beck - Post-construction",
+"duration":
+"0:16",
+"platform":
+"Facebook"
+},
+{
+"position":
+3,
+"title":
+"Becker Maintenance Video for VT, VX, DT, DX ,T, & X 4.10 ...",
+"link":
+"https://www.youtube.com/watch?v=P3vtanbibn4",
+"thumbnail":
+"https://serpapi.com/searches/6853038f77e3d9df04bb77ae/images/a83da7f0efd7a805d5db550c48ed3a4ef0b2579a1c8841b466f4eb90a9299537.jpeg",
+"channel":
+"Becker Pumps Corporation",
+"duration":
+"3:25",
+"platform":
+"YouTube"
+},
+{
+"position":
+4,
+"title":
+"Damon Albarn: Studio Tour, 'Cracker Island' & Coachella ...",
+"link":
+"https://www.youtube.com/watch?v=EDX6l9_58RA",
+"thumbnail":
+"https://serpapi.com/searches/6853038f77e3d9df04bb77ae/images/a83da7f0efd7a8059e0a69cd08c889da797603e6fc3c429dc5f47b924bfab920.jpeg",
+"channel":
+"Apple Music",
+"duration":
+"50:03",
+"platform":
+"YouTube",
+"key_moments":
+[
+{
+"time":
+"00:00",
+"title":
+"Equipment Collection",
+"link":
+"https://www.youtube.com/watch?v=EDX6l9_58RA&t=0",
+"thumbnail":
+"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSZJV55sXr4pFXaV2vl37o0you8KNMFxf5VxiW1PClOw&s"
+},
+{
+"time":
+"09:09",
+"title":
+"Collaboration",
+"link":
+"https://www.youtube.com/watch?v=EDX6l9_58RA&t=549",
+"thumbnail":
+"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUyGsJgYzVlsDTkpKAM_vWvbRlQpnjKGRRWxk6Tz_BRA&s"
+},
+{
+"time":
+"20:37",
+"title":
+"Impromptu Jams and Inspiration",
+"link":
+"https://www.youtube.com/watch?v=EDX6l9_58RA&t=1237",
+"thumbnail":
+"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo5SUYKHXrH2qGL1-PgzyYtWCuajFxMoNlN1Ov4JI4rg&s"
+},
+{
+"time":
+"29:05",
+"title":
+"West London",
+"link":
+"https://www.youtube.com/watch?v=EDX6l9_58RA&t=1745",
+"thumbnail":
+"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLqtveXnuwpYf7Ri4WIquZnUrAxOc4WBMTZh4s2GQ3hw&s"
+}
+]
+}
+],
+"organic_results":
+[
+{
+"position":
+1,
+"title":
+"Entretien V Beck - Post-construction",
+"link":
+"https://www.facebook.com/Entretient.V.Beck/",
+"redirect_link":
+"https://www.google.ca/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/Entretient.V.Beck/&ved=2ahUKEwju3b2Jy_uNAxUnRTABHXEKKfAQFnoECCMQAQ",
+"displayed_link":
+"350+ followers",
+"favicon":
+"https://serpapi.com/searches/6853038f77e3d9df04bb77ae/images/c0275c24f63c749a242389f65327d0d3a52eadf238d7edec9a599a321a626e4a.png",
+"snippet":
+"Entretien V Beck - Post-construction. 342 likes. Netoyage professionnel Post-construction Entretien ménager apres-sinistre & Commercial.",
+"snippet_highlighted_words":
+[
+"Netoyage professionnel Post-construction"
+],
+"rich_snippet":
+{
+"top":
+{
+"detected_extensions":
+{
+"rating":
+5,
+"reviews":
+10
+},
+"extensions":
+[
+"5.0(10)"
+]
+}
+},
+"missing":
+[
+"INC"
+],
+"must_include":
+{
+"word":
+"INC",
+"link":
+"https://www.google.ca/search?sca_esv=6b19787a6a994d6b&hl=en&gl=ca&q=ENTRETIEN+V+BECK+%22INC%22&sa=X&ved=2ahUKEwju3b2Jy_uNAxUnRTABHXEKKfAQ5t4CegQIJxAB"
+},
+"source":
+"Facebook · Entretien V Beck - Post-construction"
+},
+{
+"position":
+2,
+"title":
+"Entretien V Beck - Post-construction",
+"link":
+"https://www.facebook.com/Entretient.V.Beck/videos/474288457504757/",
+"redirect_link":
+"https://www.google.ca/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/Entretient.V.Beck/videos/474288457504757/&ved=2ahUKEwju3b2Jy_uNAxUnRTABHXEKKfAQFnoECB4QAQ",
+"displayed_link":
+"https://www.facebook.com › ... › Videos",
+"favicon":
+"https://serpapi.com/searches/6853038f77e3d9df04bb77ae/images/c0275c24f63c749a242389f65327d0d3c62a43ab3d676446e8df7d2b4cde6b37.png",
+"date":
+"Feb 28, 2022",
+"snippet":
+"No photo description available. Les Revêtements Epoxy Plus. Les Revêtements Epox... Construction Company.",
+"snippet_highlighted_words":
+[
+"Company"
+],
+"source":
+"Facebook"
+},
+{
+"position":
+3,
+"title":
+"Entretien V: Services d'entretien immeubles, nettoyage ...",
+"link":
+"https://www.entretienv.ca/",
+"redirect_link":
+"https://www.google.ca/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.entretienv.ca/&ved=2ahUKEwju3b2Jy_uNAxUnRTABHXEKKfAQFnoECBwQAQ",
+"displayed_link":
+"https://www.entretienv.ca",
+"favicon":
+"https://serpapi.com/searches/6853038f77e3d9df04bb77ae/images/c0275c24f63c749a242389f65327d0d394d946b1fdbfacfdad862e0d56cf8924.png",
+"snippet":
+"Services d'entretien d'immeubles à Lévis et Québec. Nettoyage commercial et grand ménage résidentiel. Entretien V est une entreprise de 17 techniciens experts ...",
+"snippet_highlighted_words":
+[
+"Services d'entretien d'immeubles à Lévis et Québec"
+],
+"missing":
+[
+"BECK",
+"INC"
+],
+"source":
+"Entretien V"
+},
+{
+"position":
+4,
+"title":
+"Bk Entretien Inc",
+"link":
+"https://soumissionrenovation.ca/fr/entrepreneur/bk_entretien_inc",
+"redirect_link":
+"https://www.google.ca/url?sa=t&source=web&rct=j&opi=89978449&url=https://soumissionrenovation.ca/fr/entrepreneur/bk_entretien_inc&ved=2ahUKEwju3b2Jy_uNAxUnRTABHXEKKfAQFnoECCsQAQ",
+"displayed_link":
+"https://soumissionrenovation.ca › b...",
+"favicon":
+"https://serpapi.com/searches/6853038f77e3d9df04bb77ae/images/c0275c24f63c749a242389f65327d0d325b0363558e5e8596c99d3701163d833.png",
+"snippet":
+"Drain principal et garage . Drain français . Drains de toilette et douche et évier de cuisine et lavabo . Nettoyage de drain . Services et régions.",
+"snippet_highlighted_words":
+[
+"Drain principal et garage"
+],
+"missing":
+[
+"V",
+"BECK"
+],
+"source":
+"Soumission Rénovation"
+},
+{
+"position":
+5,
+"title":
+"Advanced Search - SCC Cases",
+"link":
+"https://decisions.scc-csc.ca/scc-csc/en/a/s/index.do?cont=&%2525252525252525253Bref=%2525252525252525255B2009%2525252525252525255D+1+S.C.R.+3&site_preference=normal&page=391&iframe=true",
+"redirect_link":
+"https://www.google.ca/url?sa=t&source=web&rct=j&opi=89978449&url=https://decisions.scc-csc.ca/scc-csc/en/a/s/index.do%3Fcont%3D%26%252525252525252525253Bref%3D%252525252525252525255B2009%252525252525252525255D%2B1%2BS.C.R.%2B3%26site_preference%3Dnormal%26page%3D391%26iframe%3Dtrue&ved=2ahUKEwju3b2Jy_uNAxUnRTABHXEKKfAQFnoECCwQAQ",
+"displayed_link":
+"https://decisions.scc-csc.ca › scc-csc",
+"favicon":
+"https://serpapi.com/searches/6853038f77e3d9df04bb77ae/images/c0275c24f63c749a242389f65327d0d36f952685d42c4311ffbdfe01589d3464.png",
+"snippet":
+"Deborah J. Kelly Hawkes v. Attorney General of Canada on Behalf of Her Majesty the Queen in Right of Canada, et al. - 2013-10-31. Applications for Leave.",
+"snippet_highlighted_words":
+[
+"v"
+],
+"source":
+"Supreme Court of Canada"
+},
+{
+"position":
+6,
+"title":
+"Répertoire d'information sur l'eau",
+"link":
+"https://www.environnement.gouv.qc.ca/eau/repertoire-information/?NO_MEF_LIEU=X2011844&ANNEE=2022",
+"redirect_link":
+"https://www.google.ca/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.environnement.gouv.qc.ca/eau/repertoire-information/%3FNO_MEF_LIEU%3DX2011844%26ANNEE%3D2022&ved=2ahUKEwju3b2Jy_uNAxUnRTABHXEKKfAQFnoECCoQAQ",
+"displayed_link":
+"https://www.environnement.gouv.qc.ca › ...",
+"favicon":
+"https://serpapi.com/searches/6853038f77e3d9df04bb77ae/images/c0275c24f63c749a242389f65327d0d345268d316aa144765cc116d207687972.jpeg",
+"snippet":
+"Le Répertoire d'information sur l'eau permet à chaque utilisateur de rechercher rapidement des références documentaires publiques, gouvernementales et non ...",
+"source":
+"Ministère de l'Environnement"
+},
+{
+"position":
+7,
+"title":
+"Contro Valve - Fournisseur de vannes et d'instrumentation",
+"link":
+"https://controvalve.com/fr/",
+"redirect_link":
+"https://www.google.ca/url?sa=t&source=web&rct=j&opi=89978449&url=https://controvalve.com/fr/&ved=2ahUKEwju3b2Jy_uNAxUnRTABHXEKKfAQFnoECC0QAQ",
+"displayed_link":
+"https://controvalve.com › ...",
+"favicon":
+"https://serpapi.com/searches/6853038f77e3d9df04bb77ae/images/c0275c24f63c749a242389f65327d0d3c2bf88cfebf9a06114f581204bd273c6.png",
+"snippet":
+"Contro Valve se concentre en matière d'ingénierie, de configuration des vannes, de test de performance, de gestion de la chaîne logistique et de ...",
+"sitelinks":
+{
+"inline":
+[
+{
+"title":
+"Nous joindre",
+"link":
+"https://controvalve.com/fr/contact/"
+},
+{
+"title":
+"Vannes de type globe",
+"link":
+"https://controvalve.com/fr/produits/vannes-de-type-globe/"
+},
+{
+"title":
+"Baker Hughes Masoneilan",
+"link":
+"https://controvalve.com/fr/manufacturiers/baker-hughes-masoneilan/"
+},
+{
+"title":
+"Durco",
+"link":
+"https://controvalve.com/fr/manufacturiers/durco/"
+}
+]
+},
+"source":
+"Contro Valve"
+}
+],
+"top_stories_link":
+"https://www.google.ca/search?sca_esv=6b19787a6a994d6b&hl=en&gl=ca&udm=7&q=ENTRETIEN+V+BECK+INC&sa=X&ved=2ahUKEwju3b2Jy_uNAxUnRTABHXEKKfAQ8ccDKAJ6BAgTEAQ",
+"top_stories_serpapi_link":
+"https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.ca&hl=en&location=Quebec%2C+Canada&q=ENTRETIEN+V+BECK+INC",
+"pagination":
+{
+"current":
+1,
+"next":
+"https://www.google.ca/search?q=ENTRETIEN+V+BECK+INC&sca_esv=6b19787a6a994d6b&hl=en&gl=ca&ei=kQNTaK7REKeKwbkP8ZSkgQ8&start=10&sa=N&sstk=Ac65TH7xI74-DLhVjkpBUXlSFuPqH803KQz3qs8V1u_UX31eNKZpq-_jfBKSXitN8mMTZEiL5d6A9SZPd0wq70sFFCXzgzBIx0Df4A&ved=2ahUKEwju3b2Jy_uNAxUnRTABHXEKKfAQ8NMDegQIDRAS",
+"other_pages":
+{
+"2":
+"https://www.google.ca/search?q=ENTRETIEN+V+BECK+INC&sca_esv=6b19787a6a994d6b&hl=en&gl=ca&ei=kQNTaK7REKeKwbkP8ZSkgQ8&start=10&sa=N&sstk=Ac65TH7xI74-DLhVjkpBUXlSFuPqH803KQz3qs8V1u_UX31eNKZpq-_jfBKSXitN8mMTZEiL5d6A9SZPd0wq70sFFCXzgzBIx0Df4A&ved=2ahUKEwju3b2Jy_uNAxUnRTABHXEKKfAQ8tMDegQIDRAE",
+"3":
+"https://www.google.ca/search?q=ENTRETIEN+V+BECK+INC&sca_esv=6b19787a6a994d6b&hl=en&gl=ca&ei=kQNTaK7REKeKwbkP8ZSkgQ8&start=20&sa=N&sstk=Ac65TH7xI74-DLhVjkpBUXlSFuPqH803KQz3qs8V1u_UX31eNKZpq-_jfBKSXitN8mMTZEiL5d6A9SZPd0wq70sFFCXzgzBIx0Df4A&ved=2ahUKEwju3b2Jy_uNAxUnRTABHXEKKfAQ8tMDegQIDRAG",
+"4":
+"https://www.google.ca/search?q=ENTRETIEN+V+BECK+INC&sca_esv=6b19787a6a994d6b&hl=en&gl=ca&ei=kQNTaK7REKeKwbkP8ZSkgQ8&start=30&sa=N&sstk=Ac65TH7xI74-DLhVjkpBUXlSFuPqH803KQz3qs8V1u_UX31eNKZpq-_jfBKSXitN8mMTZEiL5d6A9SZPd0wq70sFFCXzgzBIx0Df4A&ved=2ahUKEwju3b2Jy_uNAxUnRTABHXEKKfAQ8tMDegQIDRAI",
+"5":
+"https://www.google.ca/search?q=ENTRETIEN+V+BECK+INC&sca_esv=6b19787a6a994d6b&hl=en&gl=ca&ei=kQNTaK7REKeKwbkP8ZSkgQ8&start=40&sa=N&sstk=Ac65TH7xI74-DLhVjkpBUXlSFuPqH803KQz3qs8V1u_UX31eNKZpq-_jfBKSXitN8mMTZEiL5d6A9SZPd0wq70sFFCXzgzBIx0Df4A&ved=2ahUKEwju3b2Jy_uNAxUnRTABHXEKKfAQ8tMDegQIDRAK",
+"6":
+"https://www.google.ca/search?q=ENTRETIEN+V+BECK+INC&sca_esv=6b19787a6a994d6b&hl=en&gl=ca&ei=kQNTaK7REKeKwbkP8ZSkgQ8&start=50&sa=N&sstk=Ac65TH7xI74-DLhVjkpBUXlSFuPqH803KQz3qs8V1u_UX31eNKZpq-_jfBKSXitN8mMTZEiL5d6A9SZPd0wq70sFFCXzgzBIx0Df4A&ved=2ahUKEwju3b2Jy_uNAxUnRTABHXEKKfAQ8tMDegQIDRAM",
+"7":
+"https://www.google.ca/search?q=ENTRETIEN+V+BECK+INC&sca_esv=6b19787a6a994d6b&hl=en&gl=ca&ei=kQNTaK7REKeKwbkP8ZSkgQ8&start=60&sa=N&sstk=Ac65TH7xI74-DLhVjkpBUXlSFuPqH803KQz3qs8V1u_UX31eNKZpq-_jfBKSXitN8mMTZEiL5d6A9SZPd0wq70sFFCXzgzBIx0Df4A&ved=2ahUKEwju3b2Jy_uNAxUnRTABHXEKKfAQ8tMDegQIDRAO",
+"8":
+"https://www.google.ca/search?q=ENTRETIEN+V+BECK+INC&sca_esv=6b19787a6a994d6b&hl=en&gl=ca&ei=kQNTaK7REKeKwbkP8ZSkgQ8&start=70&sa=N&sstk=Ac65TH7xI74-DLhVjkpBUXlSFuPqH803KQz3qs8V1u_UX31eNKZpq-_jfBKSXitN8mMTZEiL5d6A9SZPd0wq70sFFCXzgzBIx0Df4A&ved=2ahUKEwju3b2Jy_uNAxUnRTABHXEKKfAQ8tMDegQIDRAQ"
+}
+},
+"serpapi_pagination":
+{
+"current":
+1,
+"next_link":
+"https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.ca&hl=en&location=Quebec%2C+Canada&q=ENTRETIEN+V+BECK+INC&start=10",
+"next":
+"https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.ca&hl=en&location=Quebec%2C+Canada&q=ENTRETIEN+V+BECK+INC&start=10",
+"other_pages":
+{
+"2":
+"https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.ca&hl=en&location=Quebec%2C+Canada&q=ENTRETIEN+V+BECK+INC&start=10",
+"3":
+"https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.ca&hl=en&location=Quebec%2C+Canada&q=ENTRETIEN+V+BECK+INC&start=20",
+"4":
+"https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.ca&hl=en&location=Quebec%2C+Canada&q=ENTRETIEN+V+BECK+INC&start=30",
+"5":
+"https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.ca&hl=en&location=Quebec%2C+Canada&q=ENTRETIEN+V+BECK+INC&start=40",
+"6":
+"https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.ca&hl=en&location=Quebec%2C+Canada&q=ENTRETIEN+V+BECK+INC&start=50",
+"7":
+"https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.ca&hl=en&location=Quebec%2C+Canada&q=ENTRETIEN+V+BECK+INC&start=60",
+"8":
+"https://serpapi.com/search.json?device=desktop&engine=google&gl=ca&google_domain=google.ca&hl=en&location=Quebec%2C+Canada&q=ENTRETIEN+V+BECK+INC&start=70"
+}
+}
+}
