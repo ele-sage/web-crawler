@@ -21,6 +21,7 @@ console = Console()
 # BASE_URL = os.getenv("CRAWL4AI_TEST_URL", "http://localhost:8020")
 BASE_URL = os.getenv("CRAWL4AI_TEST_URL", "http://localhost:11235")
 # Target URLs
+SIMPLE_URL = "https://example.com"  # For demo purposes
 SIMPLE_URL = "https://httpbin.org/html"
 LINKS_URL = "https://httpbin.org/links/10/0"
 FORMS_URL = "https://httpbin.org/forms/post"  # For JS demo
@@ -1276,7 +1277,7 @@ async def main_demo():
         # await demo_streaming_multi_url(client)
 
         # await demo_markdown_default(client)
-        # await demo_markdown_pruning(client)
+        await demo_markdown_pruning(client)
         # await demo_markdown_bm25(client)
 
         # await demo_param_css_selector(client)
@@ -1302,7 +1303,7 @@ async def main_demo():
         # await demo_llm_endpoint(client)
 
         # --- /config/dump sanity checks ---
-        await demo_config_dump_valid(client)
+        # await demo_config_dump_valid(client)
         # await demo_config_dump_invalid(client)
 
         console.rule("[bold green]Demo Complete[/]", style="green")

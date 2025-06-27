@@ -11,4 +11,5 @@ dependencies = [
     "pandas-stubs==2.2.3.250527",
     "phonenumbers==9.0.7",
     "pyap2==0.1.14",
+    "python-dotenv",
 ]

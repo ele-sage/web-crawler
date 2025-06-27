@@ -4,7 +4,7 @@ import pandas as pd
 from typing import Dict, Optional
 from dotenv import load_dotenv
 from serpapi import GoogleSearch
-from utils import load_previous_search
+from utils import load_json_file
 
 from config import (
     DEBTOR_CSV_PATH,
@@ -121,8 +121,8 @@ def google_search(debtor_id: int) -> Optional[Dict]:
     Main function to get Google search results for a debtor.
     Returns cached results if available, otherwise performs new search.
     """
-    # Check for previous search results
-    previous_search = load_previous_search(debtor_id)
+    json_file = os.path.join(SERP_PREVIOUS_SEARCHES_PATH, f'{debtor_id}.json')
+    previous_search = load_json_file(json_file)
 
     if previous_search and 'organic_results' in previous_search:
         print(previous_search['organic_results'])

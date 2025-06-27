@@ -5,7 +5,6 @@ import glob
 from typing import Dict, List, Set, Optional, Any
 from urllib.parse import urlparse
 
-from config import SERP_PREVIOUS_SEARCHES_PATH
 
 COMPANY_STOP_WORDS = {'inc', 'ltd', 'llc', 'corp', 'co', 'group'}
 SOCIAL_MEDIA_DOMAINS = {

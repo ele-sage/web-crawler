@@ -1304,6 +1304,7 @@ dependencies = [
     { name = "pandas-stubs" },
     { name = "phonenumbers" },
     { name = "pyap2" },
+    { name = "python-dotenv" },
 ]
 
 [package.metadata]
@@ -1315,6 +1316,7 @@ requires-dist = [
     { name = "pandas-stubs", specifier = "==2.2.3.250527" },
     { name = "phonenumbers", specifier = "==9.0.7" },
     { name = "pyap2", specifier = "==0.1.14" },
+    { name = "python-dotenv" },
 ]
 
 [[package]]

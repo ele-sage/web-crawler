@@ -4,7 +4,6 @@ from config import SERP_PREVIOUS_SEARCHES_PATH
 from utils import find_input_files, load_json_file, select_relevant_sites
 from ContactExtractor import ContactExtractor
 
-# return title and snippet given a position in organic_result
 get_organic_result_info = lambda x, i: x['organic_results'][i].get('title', '') + ' ' + x['organic_results'][i].get('snippet', '')
 get_organic_result_link = lambda x, i: x['organic_results'][i].get('link', '')
 

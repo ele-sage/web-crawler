@@ -1,10 +1,15 @@
 import os
 from pathlib import Path
+from dotenv import load_dotenv
+
+load_dotenv()
 
 __cur_dir__ = Path(__file__).parent
 
 
 PROJECT_ROOT = __cur_dir__.parent
+
+SERPAPI_API_KEY = os.getenv("SERPAPI_API_KEY")
 
 DEBTOR_CSV_PATH = os.path.join(PROJECT_ROOT, 'data/Debtors.csv')
 SERP_PREVIOUS_SEARCHES_PATH = os.path.join(PROJECT_ROOT, 'data/serp_previous_searches')
